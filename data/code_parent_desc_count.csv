@@ -1,0 +1,1446 @@
+code_parent,code_parent_desc,count(*)
+ESP10,R Sémard les Estudines,4
+ESP100,Arrèt tram La Bruyère Pl ouest,10
+ESP1000,Sq Villebois,22
+ESP1001,Terrain d'aventure R Repos,16
+ESP1002,Pl André Charpin,8
+ESP1003,Pl Joseph Riboud,3
+ESP1004,R du Repos locaux des sports,18
+ESP1005,R Ninon Vallin park,11
+ESP1006,R R Descartes,10
+ESP1007,R Marius Riollet cité rouge,3
+ESP1008,R Robespierre tennis plein air,16
+ESP1009,Av J O caisse d'épargne,4
+ESP101,Av LBruyère Reynoard Peupliers,13
+ESP1010,Biblio Abbaye les Bains,4
+ESP1011,Prc Mis stab nord ann vitesse,27
+ESP1012,Prc Mis Jard alpin stab Sud,30
+ESP1013,R de la Houille Blanche,6
+ESP1014,Bd Foch Tram cdt Rozan Jaures,21
+ESP1015,Ec mat Painlevé 21 Rh Danube,14
+ESP1016,Av Berthelot Malifaut G Lussac,28
+ESP1017,Av Berthelot lycée Guynemer,18
+ESP1018,R Jacquard Kenedy à Louvois,13
+ESP1019,R J Giono Jacquard à Louvois,12
+ESP102,R M Bourette partie minérale,10
+ESP1020,R DrBordier impair,15
+ESP1021,Voie E O zone éduc routière,17
+ESP1022,R Marquian MIN,52
+ESP1023,R Gén Mangin Alliés Jacquart,21
+ESP1024,Caser Bonne Espl A Leray  Sud,46
+ESP1025,Pl de Verdun,12
+ESP1026,R Marceau Pl Maginot Frenay,4
+ESP1027,Ave St Roch ang Prudhomme,20
+ESP1028,Chem de Halage désinfection ,1
+ESP1029,Pl du Grésivaudan,5
+ESP103,A A Lorraine la Gare à Jaures,16
+ESP1030,Jard Hoche Ouest stabilisé pel,68
+ESP1031,R Cdt l'Herminier,7
+ESP1032,Parc 1 Michalon R Massena,4
+ESP1033,Parc 1 Michalon centre,68
+ESP1034,Parc 2 R Hermin M Leclerq,32
+ESP1035,Parc 2 R Hermin Cöte Sud,8
+ESP1036,Bd J Pain Vallier Dauphins,25
+ESP1037,Ec prim P Bert 07 Pl Girard,13
+ESP1038,Jard Plantes centre,52
+ESP1039,Halte gard mutualité exterieur,10
+ESP104,Pl St Bruno foyer pers âgées,5
+ESP1040,Halte garderie Mutualité,15
+ESP1041,Crs Libération Vaujany Rondeau,13
+ESP1042,Cité Mistral R A Thomas park,21
+ESP1043,R A France Barral Renavent,12
+ESP1044,Cité Mistral Ouest gr scolaire,34
+ESP1045,Cité Mistral derr garderie,12
+ESP1046,R Arts de montagne derr tennis,4
+ESP1047,R Arts de montagne face 9 à 13,13
+ESP1048,Prc Mis Jard alpin pel sud bas,17
+ESP1049,R Gén Mangin Hôtel Mercure,13
+ESP105,Ecole prim Vallier R Greffier,14
+ESP1050,Pl P Mistral sépar central,14
+ESP1051,Prc Mis Tr Perret Pel SudOuest,26
+ESP1052,Prc Mis Tr Perret pel Sud/Est,19
+ESP1053,R L Jouhaux de J Bart au n 88,23
+ESP1054,Prc Mis pelouse Sud Est tunnel,23
+ESP1056,Pl Salvatore Allende,23
+ESP1057,R Kaunas P Cocat à Manteyer,13
+ESP1058,Prc Echangeurs amphi Nord,44
+ESP1059,Halte gard Abbaye Jouhaux ext,5
+ESP106,Ave F Viallet Gambetta Belg,16
+ESP1060,Impasse Clément Ader,13
+ESP1061,Cité Ab Chatelet Duguesclin 2,3
+ESP1062,Cité Moyrand R Dupleix impair,6
+ESP1063,Pl Laurent Bonnevay,8
+ESP1064,Ec prim du Grand Chatelet n 36,22
+ESP1065,Halte gard Abbaye Jouhaux int,2
+ESP1066,Centre social Elie Cartan,1
+ESP1067,R Turgot Lemaitre à Malherbe,10
+ESP1068,R J Bart impair,13
+ESP1069,Ave Fenelon n 15 et 17,5
+ESP107,Ecole prim J Jaurès n 09,6
+ESP1070,Av Berthelot crêche Malherbe,2
+ESP1071,R Andrieux James au rond point,8
+ESP1072,R Gén Durand ang J Perrot,1
+ESP1073,Sq L Blum ang Stalingrad ,26
+ESP1074,Stade Lesdiguières,70
+ESP1075,Av Rh Danube Vallier E Claires,20
+ESP1076,Pc Savane le long Rh Danube,18
+ESP1077,Pc Savane entrée Ronserail Nor,16
+ESP1078,Parc de la Savane Sud,11
+ESP1079,Pt Catane Sud align Tram,6
+ESP108,Jard des Dauphins le labo,17
+ESP1080,Sq Ch Péguy,18
+ESP1081,Crêche Saint Bruno,10
+ESP1082,Av J O nord Mantayer 140 RIA,1
+ESP1083,Av Champon Diabl bleus Bougaut,17
+ESP1084,Av Berthelot pair ang Peretto,8
+ESP1085,Av Berthelot IUFM à voie E-O,22
+ESP1086,R Gén Mangin 39-41,21
+ESP1087,R Jacquard Kennedy à Mangin,7
+ESP1088,R L Lagrange face école,21
+ESP1089,Prc Pompidou abords boulodrome,29
+ESP109,R François Raoult,13
+ESP1090,Prc Pompidou long voie ferrée,198
+ESP1091,Voie E O cote voie ferree,227
+ESP1092,R Stalingrad le marché,7
+ESP1093,Pc Pompidou al du parc face 01,3
+ESP1094,Av Grande Chartreuse pair,14
+ESP1095,Ave du Grand Serre impair,15
+ESP1096,R Cdt de Reynies,8
+ESP1097,Ch Gordes pourtour gym Munch,29
+ESP1098,Bd Foch Mangin à Ferrié,11
+ESP1099,Chem des Essarts,2
+ESP11,R Esclangon Sémard à Vercors,18
+ESP110,Pc 3 H St Ferjus ch de Ronde,10
+ESP1100,Pc Ch Elysés ang Nal,16
+ESP1101,Ch Collège école du Lac ,22
+ESP1102,Gal Arlequin 70 cote parc,42
+ESP1103,Tr quartiers gymn de la rampe,31
+ESP1104,Tr quartiers pa 74 constantine,26
+ESP1105,Tr quartiers Res gentianes,1
+ESP1106,Butte n 04 toboggan,65
+ESP1107,Ec la fontaine,25
+ESP1108,R Esmonin sép face Carrefour,54
+ESP111,Sq du 19 mars 1962,5
+ESP1110,Av Reynoard sép VO a Musset,50
+ESP1111,Av Reynoard sép Musset à URSAF,33
+ESP1112,Res J Brel contre silo,9
+ESP1113,R du Trident park et abords,9
+ESP1114,R R Fernandat,10
+ESP1115,R Turgot n 05 Pltte,3
+ESP1116,Allée de la Sylphide pair,21
+ESP1117,Pl L Jouvet derrière 22 à 24,7
+ESP1118,R Musset de Pupin à Reynoard,25
+ESP1119,R A Vigny Staling Romantiques,12
+ESP112,Centre social Vieux Temple,12
+ESP1120,Ave M Reynoard ang Alliés,5
+ESP1121,Ave Marie Reynoard n 34,2
+ESP1122,R M Dodero park tram,10
+ESP1123,Av LBruyère ang Reynoard pel,2
+ESP1124,Av Europe ech Constantin talus,24
+ESP1125,Alpexpo park,127
+ESP1126,Garage central Malherbe Ouest,24
+ESP1127,Prc Ouagadougou stabilisé Sud,20
+ESP1129,R G Philippe face n 10,7
+ESP113,Ave Rh Danube devant Pharmacie,3
+ESP1130,Ec mat G Philippe R N Vallin,12
+ESP1131,R Ninon Vallin IMCP,5
+ESP1132,C Berriat Grégoire Alembert,8
+ESP1134,R J Rey N Chorrier à Jaurès,17
+ESP1135,R Sémard l'arche à F Gautier,3
+ESP1136,R Pierre Sémard du 40 au 48,9
+ESP1137,R Victor Lastella cote impair,4
+ESP1138,R Diderot ang Pt du vercors,2
+ESP1139,R Arago ang C Bernard,7
+ESP114,Pl J Moulin partie Sud Est,43
+ESP1140,R de la Frise,28
+ESP1141,R de la Scierie ang Arago,6
+ESP1142,Bd J Vallier Termier à Irvoy,31
+ESP1143,Sq Mirabeau ch des Tournelles,8
+ESP1144,Bd J Vallier ang Irvoy,8
+ESP1145,Ec Ampère n 59 R du Drac,2
+ESP1146,Ec de mus Ampère ang Greffier,6
+ESP1147,R Papet,17
+ESP1148,Parc Vallier aire de jeux,24
+ESP1149,Parc de Marliave,62
+ESP115,Ec mat Cornélie Gémond,13
+ESP1150,A Lorraine impair Jaures Gambe,20
+ESP1151,Ra Blanchard ang St Jacques,10
+ESP1152,A Lorraine pair Mazet Gambetta,5
+ESP1153,Pl Notre Dame,16
+ESP1154,Pl Aristide Briand,2
+ESP1155,Jard des Dauphins le châlet ,7
+ESP1156,Foyer pers âgées R P Duclot,24
+ESP1157,Bd Foch pair Gambetta Marceau,24
+ESP1158,Bd Joffre pair Pasteur Rivet,20
+ESP1159,Jard Hoche P Fugain Sud Ouest,26
+ESP116,Crs Libération Beauvert Alliés,95
+ESP1160,Pl Pasteur Joffre Diabl bleus,6
+ESP1161,R de Narvick et H Ding,14
+ESP1162,R Simon Nora,12
+ESP1163,R L Lachenal n 02 à 04,18
+ESP1164,Av Constantine n 06 à 24,11
+ESP1165,Ec prim Reynoard Romantiques,7
+ESP1166,Chem du tram,56
+ESP1167,Ave Malherbe Ouest passerelle,71
+ESP1168,R Pupin accés Kogan,16
+ESP1169,Gal Arlequin crêche 120 ext,1
+ESP117,Sortie A 480 st Bachelard,19
+ESP1170,R C Kogan Pl centrale,29
+ESP1171,Centre œcuménique St Marc,27
+ESP1172,Cité Teisseire bassin,2
+ESP1173,Ec Berlioz R F Garcia Lorca,17
+ESP1174,Ec mat J Racine R Cl le Camus,21
+ESP1175,R Manteyer n 37 à 41,16
+ESP1176,R L Jouhaux n 102,1
+ESP1177,C JJaurés Berriat à Dupont,51
+ESP1179,R Jules Horowitz,38
+ESP118,Prc Mis tour anneau de vitesse,31
+ESP1180,R Léon Sestier,10
+ESP1181,Crs Berriat n 161 bis,1
+ESP1182,Pl St Bruno n 08 biblio ,2
+ESP1183,Sq Moucherotte jeux de boules,10
+ESP1184,R des Arts Jard Trocadero,8
+ESP1185,Ch 3 maisonsi th de création,17
+ESP1186,Trémie tram Sémard talus,14
+ESP1187,Pl Doyen Gosse devant I U T,7
+ESP1188,R Sémard impasse thalgo,3
+ESP1189,R A Grégoire ang Hermite,1
+ESP119,Prc Mis pelouse du médaillon,10
+ESP1190,R A Terray Suède à AGrégoire,10
+ESP1191,R Eugène Varlin,3
+ESP1192,R Général Marchand,2
+ESP1193,R Thiers impair Condorcet Tes,10
+ESP1194,Pl Condorcet,4
+ESP1195,Bd Gambetta Dubedout Berriat,73
+ESP1196,Crs La Fontaine impair ,28
+ESP1197,Pl Championnet,10
+ESP1198,Pl Condorcet Voirie,5
+ESP1199,Pl St André,2
+ESP12,Cité F Gauthier pel de l'arche,43
+ESP120,Ec mat Colonel Driant,15
+ESP1200,Qu de France n 30 park,5
+ESP1201,Jard des Dauphins camp indien ,15
+ESP1202,Ec mat pas Jard de Ville,1
+ESP1203,Esplan ceinture Nord-Ouest,43
+ESP1204,Bd Joffre pair Pasteur Mistral,5
+ESP1205,Pl St Laurent,2
+ESP1206,Pl Pasteur Maison étudiants,5
+ESP1208,Caser Bonne Espl A Leray Nord,42
+ESP1209,Av Randon imp Girard Calvat,6
+ESP121,Cité Ab chatelet Vercingétorix,4
+ESP1210,Ave St Roch ang ch de Ronde,3
+ESP1211,Jard Hoche cour des amoureux,12
+ESP1212,Pc 3 H St Ferjus Chartreuse,20
+ESP1213,Pc 3 H St Ferjus Chartr Hermin,59
+ESP1214,Qu jongkind mur face n 1 et 3,3
+ESP1215,R Farconnet,4
+ESP1216,R Très Cloitre,3
+ESP1217,Pl Bir Hakeim Pltte Dolomieu,10
+ESP1218,Bd J Pain talus Forum ,31
+ESP1219,MJC de la Magnanerie,5
+ESP122,R N Vallin face écoles,10
+ESP1220,Ave Beaumarchais,38
+ESP1221,Ave du 11 Novembre,13
+ESP1222,Ave Rh Danube L king E Claires,10
+ESP1223,Ave Rh Danube devant l'Atelier,14
+ESP1224,Bd des Adieux,11
+ESP1225,R Fourrier n 2bis,1
+ESP1226,Crs Libé Alliés Rochambeau,23
+ESP1227,Crs Libération Reynier Vaujany,55
+ESP1228,Cité Mistral R P Strauss,16
+ESP1229,Cité Mistral R A France park,7
+ESP123,FPA des Alpins Cour,2
+ESP1230,R Cdt Nal,49
+ESP1231,R Corot,6
+ESP1232,R DrSchweitzer impair,19
+ESP1233,R H Dagalier,12
+ESP1234,R Alliés Matussière Stalingrad,11
+ESP1235,R Peretto Bordier Berthelot,21
+ESP1236,R Lieu Chabal contre ec Daudet,5
+ESP1237,Ec F Buisson 04 R DrBordier,14
+ESP1238,Av J O nord 140 RIA Chapitre,40
+ESP1239,R E Zola ang Berthelot foyer,5
+ESP124,Stade Bachelard,239
+ESP1240,Sq des Charmilles FPA ,7
+ESP1241,R Marquian Lesage à A Frédet,15
+ESP1242,Pc Pompidou al du parc 05 à 13,20
+ESP1243,Bd Foch Ferrié à Mallifaud,13
+ESP1244,Pc Ch Elysés entrée Yves Farge,23
+ESP1245,Crêche du Lys Rouge,7
+ESP1246,Av LBruyère stab sous paserele,4
+ESP1247,Prc La Bruyère Resid SUD-EST,19
+ESP1248,Av Reynoard talus face URSAF,6
+ESP1249,R des Chardonnerets Pltte,7
+ESP125,Av Berthelot ang Flaubert,3
+ESP1250,Ch Collège accès Pl des Géants,31
+ESP1251,Collège entre Lac et Genêts,21
+ESP1252,Crique sud n 150 Arlequin,6
+ESP1253,Grande pelouse bord h du parc,31
+ESP1254,Pl des Géants 30 cage escalier,3
+ESP1255,Pltte Ch du parc Est butte 04,5
+ESP1256,R du Trident,8
+ESP1257,Res J Brel ,16
+ESP1258,Pas la Fontaine park,12
+ESP1259,Sq H Mauchant n 02 à 16,18
+ESP126,R E Zola ang Berthelot park,8
+ESP1260,Al Romantiques Musset LBruyère,48
+ESP1261,R R François Pupin à Andrieux,15
+ESP1262,R C Kogan centrale tléphonique,36
+ESP1263,Pas entre Stalingrad et Vigny,25
+ESP1264,R Gervasoti n 06 à 34,13
+ESP1265,R H Duhamel du n 22 à 32,7
+ESP1266,R H Duhamel terrain proximité,3
+ESP1267,Grenoble village av M Reynoard,77
+ESP1268,Pl des Géants,10
+ESP1269,R C Kogan n 37 Andrieux,7
+ESP127,R Déportés ang Mallifaud park,8
+ESP1270,R C Kogan n 08 et 8bis,18
+ESP1271,R Peupliers butte ang tennis,13
+ESP1272,Av Malherbe face n 14 à 18,6
+ESP1273,Pl Ch Dullin arri im Malherbe,22
+ESP1274,Pl Ch Dullin impair ,8
+ESP1275,Pl St Bruno Voirie,20
+ESP1276,A DL Weill Colombe à Arménie,15
+ESP1277,A DL Weill Arménie à Esclangon,32
+ESP1278,R Sémard park Antenne 1,12
+ESP1279,Trémie tram ang Berriat,4
+ESP128,R Reynies Gnal Mangin Sq Foch,1
+ESP1280,R Charles Berthier,19
+ESP1281,R Emile Gueymard,43
+ESP1282,R Esclangon park HLM,7
+ESP1283,Ec mat Berriat r Anthoard,9
+ESP1284,Ec pr Berriat R A Grégoire,6
+ESP1285,R des Arts pas Colbert,4
+ESP1286,Sq Waldeck Rousseau crêche,2
+ESP1287,Bd J Vallier voie tram pair,52
+ESP1288,R DrGreffier,20
+ESP1289,R de Londres ang Paris,1
+ESP129,Halte gard cité Abry,5
+ESP1290,R Léon Drivier,5
+ESP1291,A Lorraine impair Gamb VHugo,5
+ESP1292,R DrBailly,14
+ESP1293,R Thiers pair Condorcet Test,9
+ESP1294,Sq Vallois Montorge Belgrade,8
+ESP1295,Pl des Tilleuls,4
+ESP1296,Jaurés impair Jansens Turenne,12
+ESP1297,Pl Pasteur Bistesi Joffre,6
+ESP1298,Pl Pasteur Bistesi Régi Génie,15
+ESP1299,Jard des Dauphins sommet ,41
+ESP13,R W Killiam ang Irvoy,3
+ESP130,Ec des frênes,17
+ESP1300,Jard des Dauphins pelouses,30
+ESP1301,Jard Dauphins 1ère terrasse ,30
+ESP1302,Montée Chalemont R St Laurent ,26
+ESP1303,Qu des Allobroges falaise,3
+ESP1304,Res Dauphins 32-40 Qu France,42
+ESP1305,Rte Lyon départ Via Ferrata,26
+ESP1306,R H Frenay L Carnot à Marceau,26
+ESP1307,R L Carnot Maginot à Frenay,12
+ESP1308,R Marguerite Gonnet,12
+ESP1309,R Cdt Rozan Janssen talus,13
+ESP131,Pôle festif R L Jouhaux,47
+ESP1310,Jard Hoche Ouest stabilisé arb,18
+ESP1311,Jard Hoche pas Est Malraux,8
+ESP1312,Jard Hoche Nord Ouest sport,13
+ESP1313,Pc 3 H St Ferjus Chartr Belled,24
+ESP1314,R de l'Alma,14
+ESP1315,R Delacroix garage 1000 lacs,1
+ESP1316,R des Fleurs ang Mortillet,1
+ESP1317,Bd J Pain le long du Forum,10
+ESP1318,R Malakoff devant la banque,4
+ESP1319,R Eugène Faure ang R Mably,2
+ESP132,R H Duhamel ang Musset Pupin,4
+ESP1320,R Malakoff le Forum,4
+ESP1321,Sq St Eynard massif,10
+ESP1322,Sq St Eynard station taxis ,17
+ESP1323,Ave Randon Ronde à Girard,5
+ESP1324,Cité Vignes Huchon à Halage,30
+ESP1325,R Hauquelin n 01,1
+ESP1326,Ave Rh Danube L Michel Greta,18
+ESP1327,Jard Plantes J à la française,34
+ESP1328,Maison de la Nature,16
+ESP1329,Cité Mistral derr n 70 park,4
+ESP133,Av Constantine Gym des saules,27
+ESP1330,Crs Libé Verlaine Bauvert,35
+ESP1331,Le Rondeau coté impair,24
+ESP1332,Le Rondeau coté pair,13
+ESP1333,R A Césaire devant collège,8
+ESP1334,R A France Schwetzer Plateau,11
+ESP1335,R Capitaine Camine park ,10
+ESP1336,R Gén Mangin Sq dev immeubles,20
+ESP1337,Prc Mis pel Est Mairie ,15
+ESP1338,R L Jouhaux Manteyer Cocat,27
+ESP1339,Av J O Valles Poterne sép,47
+ESP134,Av Malherbe pe face écoles,13
+ESP1340,Cité Chatelet Wash Poincare,63
+ESP1341,Av J O Wash à L Jouhaux sép,29
+ESP1342,R N Boileau et Mansard,33
+ESP1343,R Frederico Garcia Lorca park,18
+ESP1344,Ch la Poterne park derr stade,19
+ESP1345,R L Jouhaux dev lycée Argouges,10
+ESP1346,Cité Ab Chatelet Rivail 01à 09,11
+ESP1348,Stade M Stijkovic,5
+ESP1349,Av Bossuet Helbronner Racine,34
+ESP135,Pl Gare arrêt Tram,30
+ESP1350,R du Repos ang la Mogne ,2
+ESP1351,R Flandrin / Pont Carpin,36
+ESP1352,Av J O  J Perrot à Kaunas,22
+ESP1353,R Pascal Florian à La Bruyère,15
+ESP1354,Sq Cdt Perraut R ,7
+ESP1355,R C Genin n 22,3
+ESP1356,Prc Mis bord park Est,19
+ESP1357,Ec Beauvert av L Blum,7
+ESP1358,Prc Mis Jard alpin bassin,35
+ESP1359,Pc Ch Elysés pelouse Nord,50
+ESP136,Ec mat Diderot,15
+ESP1360,Bibliothèque Eaux Claires,8
+ESP1361,R R Salengro talus biblio,44
+ESP1362,Av Berthelot Ponsard Gordes,2
+ESP1363,R Dt de Crolles square,5
+ESP1364,R Emile Romanet n 22 à 26,22
+ESP1365,R Moyrand réserve foncière,5
+ESP1366,R L Lagrange ang R Gén Mangin,6
+ESP1367,Pl DrGalimard,12
+ESP1368,R 140 R I A Pl de l'amitié,3
+ESP1369,R Gay Lussac Berthelot Monge,8
+ESP137,Sq Waldeck Rousseau,50
+ESP1370,R Monge Ch église Gay Lussac,12
+ESP1371,R Léo Lagrange ang Gén Ferrié,14
+ESP1372,R L Andrieux n 22 à 88,17
+ESP1373,R Ponsard ang J Perrot,2
+ESP1374,Prc Pompidou  gradins,21
+ESP1375,Prc Pompidou pelouse du bassin,30
+ESP1376,R F James ang A de Vigny,2
+ESP1377,Av  J O nord Jouhaux 140 RIA,2
+ESP1378,Av J Perrot l'orangeraie,30
+ESP1379,R R Lesage du 17 au 23,13
+ESP138,R N Chorier ang A Grégoire,1
+ESP1380,Av J Perrot n 88 ,1
+ESP1381,Bd Foch Tram Lanoyerie Marceau,16
+ESP1382,Prc Pompidou abs aire de jeux ,42
+ESP1383,R A Matussière ang Lesage,6
+ESP1384,Technisud pelouse,5
+ESP1385,Ec mat libération n 207,10
+ESP1386,Prc La Bruyère dalle Res,91
+ESP1387,Res La Bruyère commerces,9
+ESP1388,Butte n 04 zénith,44
+ESP1389,Ch Collège Allée de la Pelouse,26
+ESP139,Pl J Marval et R Arthaud,9
+ESP1390,Ch Collège Terrain proximité,14
+ESP1391,Gal Arlequin le patio pelouse,13
+ESP1392,La piste dans le talus,8
+ESP1393,Désserte des alisiers mail,61
+ESP1394,La piste plateau sportif,23
+ESP1395,Massif du lac,4
+ESP1396,Pass du Verderet derr école,21
+ESP1397,R du Trident esp ouvert,14
+ESP1398,Prc La Bruyère accés SUD,15
+ESP1399,Pas la Fontaine coté Helbroner,8
+ESP14,R Millet angle R de Sault,1
+ESP140,Caser Bonne Pl Carnot Frenay,6
+ESP1400,R Trois épis park,14
+ESP1401,Ec des Arts R FG Lorca,6
+ESP1402,Av Reynoard Dodero à Esmonin,10
+ESP1403,R Maquis de l'Oisans park,35
+ESP1404,R du 8 Mai 1945 voie bus butte,60
+ESP1405,R Maurice Dodero n 12 à 16,67
+ESP1406,Impasse des érables Est,8
+ESP1407,All Romantiques Vigny Sylphide,13
+ESP1408,Av Constantine Bourse Travail,23
+ESP1409,Crêche du 120 Arlequin,30
+ESP141,Caser Bonne Vallons Frenay,15
+ESP1410,Espace Chantal Mauduit,76
+ESP1411,Ec mat Primevères R Gervasotti,11
+ESP1412,Av Europe ang Aliende H Piazza,13
+ESP1413,Pl Lionel Terray,9
+ESP1414,Pl des Géants 40,13
+ESP1415,Crêche des Poucets,2
+ESP1416,R C Kogan IMT contre bâtiment,15
+ESP1417,Av Constantine Trident à Pins,13
+ESP1418,Av Reynoard 3 Quartiers Musset,47
+ESP1419,R Tr Quartiers Dodero Reynoard,6
+ESP142,Qu jongkind Tarillon Lachman,17
+ESP1420,R FG Lorca park contre imeuble,3
+ESP1421,Pl  L Jouvet mail jx de boule,24
+ESP1422,Prc Ouagadougou partie Ouest,55
+ESP1423,Park gymnase Malherbe,16
+ESP1424,R G Philippe n 12 à 28,10
+ESP1425,Ec P Cocat R Manteyer,5
+ESP1426,R D Fontanelle n 02 à 06,3
+ESP1427,R M Bourette,5
+ESP143,Ave Rh Danube dev GS Mistral,13
+ESP144,Crs Libération Rondeau Ec Libé,50
+ESP145,Prc Mis Jard alpin abd cascade,25
+ESP146,Cité Moyrand R Dupleix,21
+ESP147,Prc Echangeurs amphi Sud,87
+ESP148,R G Tonnelier Cocat Fernandat,31
+ESP149,Cité Chatelet Rivail chicane,7
+ESP15,Pl du Temple ,2
+ESP150,Impasse Clément Ader Voirie,20
+ESP152,R Flandrin échangs à Galieni,9
+ESP153,Pc Savane terrains pétanque ,13
+ESP154,R Dt Crolles James Echaillon,6
+ESP155,R Déportés Bourget  Stalingrad,23
+ESP156,Ch Gordes Est conservatoire,16
+ESP157,Al de la pelouse cote antenne,30
+ESP158,Gymnase de la piste,5
+ESP159,Montée des Bureaux,24
+ESP16,Jard des Dauphins entrée,9
+ESP160,R M Dodero SOGEA,22
+ESP161,R A Vigny M Oisans Stalingrad,21
+ESP162,Av Constantine ms architecture,20
+ESP163,Gal Arlequin park crêche 120,7
+ESP164,R Manteyer n 13 derrière,1
+ESP165,Re G Eiffel/ P Payerne,68
+ESP166,R Auguste Genin,3
+ESP167,Sq Belmont ang R St Nicolas,9
+ESP168,R de Bonne ang R Guétal,1
+ESP169,Sq tertre Qu des Allobroges,22
+ESP17,Chem de Halage park des vignes,4
+ESP170,Jard Hoche accés R de Narvick,10
+ESP171,R St Ferjus Pont des Sablons,3
+ESP172,Ave Rh Danube Strauss Reynier,6
+ESP173,R A France park Vaucanson,22
+ESP174,Prc Mis pelouse du foot,90
+ESP175,Av J O Poterne rond point,6
+ESP176,Av La Bruyère Fenelon  Florian,22
+ESP177,Av J O Poterne Washington,29
+ESP178,Sq Drevet ang Salengro Libé,77
+ESP179,R de la Station Ponsard,13
+ESP18,Sq Mutualité ang Chanrion,35
+ESP180,Cargo Nord Est dans le gazon,17
+ESP181,R Rivoire Bouchayer Couvent,5
+ESP182,Passag B Montferrat Schweitzer,30
+ESP183,Ec mat 47 R Sidi Brahim,12
+ESP184,Av Europe Doderot a Reynoard,27
+ESP185,Prc La Bruyère accés NORD,3
+ESP186,Av Constantine derr n 12 parc ,7
+ESP187,Gal Arlequin M J C,31
+ESP188,Pl du marché n 150 Arlequin,10
+ESP189,R H Barbusse Est Pôle sud,10
+ESP19,Crs Libération Vallier Salengro,37
+ESP190,R des Trembles,16
+ESP191,Impasse des érables Ouest,6
+ESP192,R P Claudel Tour n 03 à 07,41
+ESP193,R Sémard dev éc commerce,18
+ESP194,Terminus Tram Esclangon,19
+ESP195,R Ampère ang Lindbergh,10
+ESP196,Jaurés impair Vallier Berriat,43
+ESP197,Rte de Lyon n 80 Octroi,1
+ESP198,Piscine J Bron,15
+ESP199,R Narvick entrée parc Hoche,1
+ESP20,Al Léopold Sédar Senghore,18
+ESP200,Pl Raymond Perinetti,4
+ESP201,Crs Libération Ec Lib Verlaine,26
+ESP202,R Arts de montagne n 01,3
+ESP203,Prc Mis abord gare petit train,9
+ESP204,Av J O Washington Jouhaux sép,44
+ESP205,Cité Moyrand R Elie Cartan,13
+ESP206,Sq H Mauchant face 16 Voirie,18
+ESP207,Prc Pompidou crêche ds Castors,7
+ESP208,R R Salengro derrière biblio,13
+ESP209,Bd Joffre Rivet à Pasteur,16
+ESP21,Ec prim libération n 203 derr,4
+ESP210,Sq des Charmilles,15
+ESP211,Ecole mat Bajatière 61av J Perrot,9
+ESP212,Bd Foch Cdt de Reynies Mangin,9
+ESP213,Aire de jeux butte 04,11
+ESP214,FPA vers éc du lac,22
+ESP215,Ave La Bruyère pair,22
+ESP216,Av M Reynoard LBruyère  Alliés,18
+ESP217,Terrain de proximité Prémol,23
+ESP218,Ec Verderet R Gervasotti,8
+ESP219,Av Europe EDF,22
+ESP22,Prc Mis pelouses de la famille,15
+ESP220,Ave d'Insbruck,24
+ESP221,Pl M Novarina,11
+ESP222,R Pupin Esmonin au tunnel bâti,12
+ESP223,Allée des Frênes,7
+ESP224,Arrèt tram La Bruyère Est,48
+ESP225,Quatre Tours Malherbe,31
+ESP226,R P Billat ang DL Weil,6
+ESP227,Ave de Suède,5
+ESP228,Pt de Catane Nord Vallier,3
+ESP229,Pl Verdun Tram Beyle Stendhal ,6
+ESP23,Av J d'Arc C Genin à Argouges,15
+ESP230,Pl Xavier Jouvin,4
+ESP231,R Marceau,14
+ESP232,Jard Hoche combat afrique nord,11
+ESP233,Pl Bir Hakeim commerces,19
+ESP234,R Menon Oddos ,42
+ESP235,Ech Mistral séparateur central,32
+ESP236,Bd J Pain Forum sép central,6
+ESP237,Av La Bruyère Helbronner au Sq,38
+ESP238,Av Littré Fenelon à La Bruyère,5
+ESP239,R Valles ang Chem Barral,1
+ESP24,R J Lemaitre,14
+ESP240,Ecole mat Daudet 16 R Lesage,4
+ESP241,R Stalingrad ang E Zola,10
+ESP242,R J Bart ang du 140 RIA,1
+ESP243,R R L Lachat dev éc Clémenceau,9
+ESP244,R R Lesage devant Ec Daudet,13
+ESP245,Ecole prim libération n 203,17
+ESP247,R Esmonin sép face IMT,47
+ESP248,All Deux Mondes aire de jeux,45
+ESP249,Ecole des Trembles,32
+ESP25,FPA des Alpins R Stalingrad,16
+ESP250,R Musset Reynoard  Deux Mondes,6
+ESP251,Av J O Perrot à D Fontanelle,19
+ESP252,R E Romanet face au n 02 à 18 ,62
+ESP253,R C Kogan n 35 Andrieux,15
+ESP254,Garage central Malherbe Nord,5
+ESP255,Pc Ouagadougou pelouse Est,9
+ESP256,R FG Lorca n 12 à 18,29
+ESP257,Av Berthelot  crêche Malherbe,11
+ESP258,R G Lafourcade aire de jeux,17
+ESP259,Av P Cocat n 21et 21bis,3
+ESP26,Prc Mis Palais des sports,42
+ESP260,Ecole prim J Racine R Cl le Camus,11
+ESP261,Foyer 1900 Cour R Ninon Vallin,7
+ESP262,A DL Weill Billat à Colombe,13
+ESP263,R Tarze Berthier à D Savoyat,2
+ESP264,R Sémard pharmacie Berriat,1
+ESP265,Qu de la Graille,43
+ESP266,R Scierie ang Qu Graille,13
+ESP267,R des Arts pas Colbert Voirie,9
+ESP268,R Vercors Morel à Alambert,20
+ESP269,R Ernest Hareux,11
+ESP27,R Guy de Maupassant ang Vigny,7
+ESP270,Cité F Gauthier Vercors,15
+ESP271,R Esclangon Vercors Diderot,7
+ESP272,R des Martyrs AVIPAR,6
+ESP273,Parc Paul Valérien Perrin,87
+ESP274,R N Chorier Jards partagés,7
+ESP275,Ecole Buffon n 01 R Cuvier,6
+ESP276,Crêche 1000 pattes 43 Alembert,3
+ESP277,Cimetière du Grand Sablon park,12
+ESP278,Cimetière du Grand Sablon,219
+ESP279,R Lafayette,5
+ESP28,R Alliés dev POINT P,5
+ESP280,R St Jacques,6
+ESP281,Dalle Philippeville,3
+ESP282,Ilot Ste Claire n 9,3
+ESP283,Esplan boulod et park relais ,109
+ESP284,Bd Joffre impair Past Mistral,6
+ESP285,Pl de Metz,6
+ESP286,Jard des Dauphins le mûrier,5
+ESP287,Ec Pte France mais jeux 48,2
+ESP288,Radio italienne Pl X Jouvin,2
+ESP289,R du Régiment du 4ème Génie,22
+ESP29,Ec prim Clémenceau 05 R Lachat,34
+ESP290,R Hoche,30
+ESP291,Sq Charles Michels,13
+ESP292,Sq Sylvestri Boissieux Gambet,7
+ESP293,Ec Lucie Aubrac,9
+ESP294,Ec mat Marceau 1 R Bobillot,14
+ESP295,R François Raoult sce logement,2
+ESP296,Pl DrGirard,22
+ESP297,Jard Hoche Sud sport et jeux,32
+ESP298,R des Minimes,3
+ESP299,R St Ursule,15
+ESP30,Prc Pompidou piste cyclable,12
+ESP300,Pl Paul Vallier,13
+ESP301,Pl Edmond Arnaud,17
+ESP302,Ec mat P Bert 10 R A Chissé,14
+ESP303,Ave Beauvert,6
+ESP304,Pl J Moulin partie Nord Ouest,40
+ESP306,Ave Ronsard,32
+ESP307,Cité Abry R Gén Garibaldi,23
+ESP308,Cité Mistral R A Thomas impair,19
+ESP309,Cité Mistral R A France 51  53,3
+ESP31,R Roger Ronserail,4
+ESP310,R Louise Michel,46
+ESP311,Technisud derr rond point,6
+ESP31187,CAI TARZE,6
+ESP312,Al Rosa Parks,15
+ESP313,Piscine Vaucanson,6
+ESP31335,Ave Salvador Alliende,6
+ESP31362,Crêche la ribambelle,5
+ESP31387,R Blanche Monier,25
+ESP314,R C de Bussy talus SNCF,3
+ESP31408,EHPAD Narvik,3
+ESP31414,R des Bergers et des bains,5
+ESP31418,EHPAD Delphinelle Teisseire,5
+ESP31431,EHPA St Laurent,6
+ESP315,Cité Mistral derr 74 jeux,4
+ESP31598,R Mocquet / Vigny / Leconte,61
+ESP316,Prc Mis face siège FCG,12
+ESP31657,Av des JO zone boisée,48
+ESP31658,Technisud zone boisée,68
+ESP31659,Prc Mistral zone boisée,98
+ESP31685,Prc Ech zone boisée St Fergus,129
+ESP31688,Parc Vallier zone boisée,74
+ESP31689,Ech Mistral A480 talus boisé,82
+ESP31690,Parc La bruyère zone boisée,22
+ESP31691,Parc Cellatex zone boisée,137
+ESP317,Prc Mis iles Jards,70
+ESP31701,Local ADFE zone boisée,58
+ESP318,Prc Mis pel Sud Est mini golf,7
+ESP31821,Le Bastion zone boisée,339
+ESP32,Allée des Balcons,3
+ESP320,R Cardinal le Camus pair,20
+ESP32097,Sortie A 480 zone boisée,43
+ESP321,R N Vallin Esp petite enfance,2
+ESP322,R D Fontanelle Cocat  Manteyer,9
+ESP323,R A Bergès ang C Brenier,12
+ESP32313,R Joserand et Duffourd,19
+ESP32314,R Villard de Lans et Graille,15
+ESP32315,Clos des Fleurs,30
+ESP324,Sq Moucherotte ang Vercors,23
+ESP325,Pl St Bruno,28
+ESP326,Coulée verte Esclangon,79
+ESP327,Pass des 400 couverts,5
+ESP328,Cité F Gauthier abords jeux,19
+ESP32838,Place H Dubedout,18
+ESP32839,Crs Jaurès pair de PHD/ Lorr,18
+ESP32840,Crs Jaurès impair de PHD/ Lorr,27
+ESP32841,Crs Jaurès impair de Lorr/Ber,13
+ESP329,R Bévière,3
+ESP32989,Crs Libé Foch Rocham impair,14
+ESP33,R des Trois épis,40
+ESP330,R Hermite Raspail à Alembert,16
+ESP331,R Irvoy ang Papet Charrel,4
+ESP33117,R Manteyer Kaunas à J Perrot,30
+ESP33118,R Kaunas de Manteyer à J O,17
+ESP332,Espace Madrid R A Terray,8
+ESP333,R A Terray espace d'Athènes,7
+ESP334,R F Poulat pair ang Miribel,6
+ESP335,R F Poulat pair ang St Franç,12
+ESP336,R M Gontard angle M Deprez,3
+ESP33621,Av Martyrs pl Mandela impair,10
+ESP33622,Av Martyrs pl Mandela pair,11
+ESP33623,Av Martyrs Tram Nord Horowitz,11
+ESP33624,Av Martyrs impair Sud Horowitz,27
+ESP33625,Av Martyrs Résistance Horowitz,72
+ESP33626,Av Martyrs pair Sud Horowitz,16
+ESP33627,Av Martyrs impair Nord Mandela,10
+ESP33628,Av Martyrs pair Nord Mandela,13
+ESP33629,Av Martyrs Tram Nord Mandela,15
+ESP33630,Av Martyrs Tram Sud Horowitz,60
+ESP33631,Av Martyrs Tram Pair Nord Horowitz,5
+ESP33634,Sq Florian,20
+ESP337,R Père Marion église St L,6
+ESP33725,Av Martyrs impair Sud Mandela,13
+ESP33726,Av Martyrs pair Sud Mandela,12
+ESP338,Sq DrLéon Martin,28
+ESP339,Jard de l'évêché,3
+ESP34,R Musset de Reynoard à Pupin,24
+ESP340,Jard de Ville,67
+ESP341,Ave F Viallet Jaurès Gambetta,14
+ESP342,Pl Victor Hugo Voirie,54
+ESP343,R de Sault,1
+ESP344,Esplan ceinture Sud-Ouest,70
+ESP345,Rte de Lyon,20
+ESP346,Bd Esplan Autoroute A 48 ,56
+ESP347,Bd Foch pair n 66 ang Jaurès,3
+ESP348,Pl André Malraux bord du park,12
+ESP349,Ec Pte St Laurent 22 bis,1
+ESP35,R R François park Kogan,25
+ESP350,Caser Bonne Vall Nord Bassin,20
+ESP351,R Maginot L Carnot à Gambetta,10
+ESP352,R Bécaria,10
+ESP353,R H Frenay Gambetta à L Carnot,20
+ESP354,Ec mat J Verne 15 R Hoche,16
+ESP355,H de police bd Mal Leclerq,23
+ESP356,Jard Hoche cour des Bossus,19
+ESP357,Jard Hoche cour des Mômes,33
+ESP358,Qu jongkind Mortillet Duport,11
+ESP359,R A de Chissé,29
+ESP36,Stade VO pourtour,42
+ESP360,Parc 2 R Herminier centre,37
+ESP361,Cité les Vignes Sq H Huchon,6
+ESP362,Ave St Roch terrain stabilisé ,63
+ESP363,R Minimes 02 Cour Reymond,1
+ESP364,Jard Plantes dans la rocaille,28
+ESP365,Allée du Lys Rouge park CODASE,11
+ESP366,Bd Mal Foch n 57 59,4
+ESP36656,Place de Berulle,2
+ESP367,Cité Mistral R A Thomas 06 08,9
+ESP368,Cité Mistral R A Thomas boules,6
+ESP369,Cité Paul Mistral R solidarité,21
+ESP36926,R Henri Tarze à Pont SNCF,59
+ESP37,Av Malherbe société Générale,11
+ESP370,Cité Mistral imp 70 alignement,8
+ESP371,R Capitaine Belmont,6
+ESP372,R E Claires Rh Danube Césaire,14
+ESP373,Parc Cellatex espaces ouvert 1,258
+ESP374,Cité Abry aire de jeux,4
+ESP375,Cité Mistral Pl Solidarité,27
+ESP376,RArts de montagne aire de jeux,45
+ESP377,Bd J Pain Tram Lyautet Mairie,33
+ESP378,Prc Mis Jard alpin Nord bassin,20
+ESP379,R Col Driant cote école,21
+ESP38,R D Fontanelle n 05,5
+ESP380,Prc Mis abords aire de jeux,35
+ESP381,Prc Mis Al des Justes Est,13
+ESP382,Prc Mis mini golf,17
+ESP383,Cté Chatelet Cassin Duguesclin,5
+ESP384,Av Paul Cocat pair,22
+ESP385,R D Fontanelle Manteyer à J O,8
+ESP386,Cité Moyrand R Condé,12
+ESP387,R Florian Pascal à La Bruyère,10
+ESP388,Bd Gallieni park n 01 à 09,19
+ESP389,R Manteyer des J O à Ravanat,17
+ESP39,R des Arts et Métiers,45
+ESP390,Cité Ab Chatelet Rivail 08à10,6
+ESP391,Sq Recoura,6
+ESP392,R Jouhaux lycée Argouges,12
+ESP393,Av Washington Pltte av J-O,56
+ESP394,Av Grd Chatelet les Mouettes,8
+ESP395,Ave Fenelon Littré  La Bruyère,16
+ESP396,Av J Perrot Boileau à J Racine,3
+ESP397,Av St Roch  St Ferjus park,14
+ESP398,Cite George Sand,36
+ESP399,R Col Driant Pltte dev école,6
+ESP40,Trémie tram Berriat talus,11
+ESP400,Prc Mis pel sud de la famille,11
+ESP401,Park Mancret service Métro,3
+ESP402,R Jacquard station / ateliers,5
+ESP403,Jard du Couvent,20
+ESP404,Pc Savane entrée Ronserail Sud,33
+ESP405,Ec mat Savane 10 R Ronserail,14
+ESP406,Ec et gymnase Houille Blanche,22
+ESP407,R Stalingrad park clos d'or,18
+ESP408,R G Mangin Hôtel Mercure Voirie,2
+ESP409,Ch Chapitre ang Stat Ponsard,36
+ESP41,R N Chorier ang Alembert,1
+ESP410,R du 140 RIA derr Taillefer,9
+ESP411,R J Giono Jacquard  Pompidou,11
+ESP412,Prc Pompidou bassin,1
+ESP413,Pl G Rivet ang Joffre,4
+ESP414,R Déportés Bourget  Mallifaud,15
+ESP415,R du Mont Aiguille,9
+ESP416,R Léo Lagrange voie ferrée,34
+ESP417,Prc Pompidou centre sportif,41
+ESP418,R P Janet Mallifaut à Peretto,10
+ESP419,Crêche halte gard les loupiots,4
+ESP42,Pl Victor Hugo,48
+ESP420,R Francis James park,52
+ESP421,R Francis James Vigny Voirie,19
+ESP422,Av J Perrot ang Paul Claudel ,14
+ESP423,Av Grande Chartreuse impair,14
+ESP424,Pc Pompidou zone d'ébats,35
+ESP425,Ch Gordes Ouest conservatoire,4
+ESP426,Ch Maronier Libération Rivoire,9
+ESP427,Portes de l'ouest,6
+ESP428,Ec A France n 31,24
+ESP429,Placette Montferrat Schweitzer,12
+ESP43,Pl d'Agier,4
+ESP430,R Salengro sép Libé Schweitz ,50
+ESP431,R des Collibris,15
+ESP432,Prc La Bruyère NORD mail centr,102
+ESP433,R Esmonin Pupin à Gd Place sép,15
+ESP434,Al des Genêts align ec Frenes,8
+ESP435,Chem de la piscine,13
+ESP436,Grande pelouse,58
+ESP437,Tr quartiers talu architecture,13
+ESP438,La piste pel de l'aire de jeux,42
+ESP439,Désserte alisiers mail Parc,100
+ESP44,Pl J Achard,25
+ESP440,Mail des Tilleuls,135
+ESP441,Ec du lac,54
+ESP442,Plateaeu butte n 08,6
+ESP444,Tr quartiers ang al des Genêts,37
+ESP445,R Esmonin tal IMT ang Andrieux,16
+ESP446,R H Barbusse,29
+ESP447,Pl J Racine,17
+ESP448,Allée de la Sylphide impair,22
+ESP449,R Manteyer 01à13 ang J O,14
+ESP45,Qu de France,31
+ESP450,R Stalingrad Musset La Bruyère,23
+ESP451,R Maquis de l'Oisans pair,15
+ESP452,R du village,11
+ESP453,R Andrieux PM Curie R François,12
+ESP454,R Andrieux R François M Oisans,4
+ESP455,All Romantiques LBruyère Vigny,108
+ESP456,R Stalingrad pair ang Vigny,13
+ESP457,R des pins,11
+ESP458,Av Reynoard Destinées LBruyère,24
+ESP459,Placette Prémol,15
+ESP46,Bd Esplan impair Lyon boules ,16
+ESP460,R Arlequin pourtour silo 03,25
+ESP461,Pl des Géants 40 park,5
+ESP462,Av M Reynoard face cl du Mail,29
+ESP463,R Lorenzaccio impair,15
+ESP464,Park P Gaspard,3
+ESP465,R des trois Quartiers,23
+ESP466,Av Constantine ang All Frênes,8
+ESP467,Av Europe ang Cure Bourse,13
+ESP468,Halte gard Chapi Chapo,11
+ESP469,Av Constantine impair,19
+ESP47,Bd Foch pair Marceau Lanoyerie,23
+ESP470,R Christophe Turc,42
+ESP471,R C Kogan pelouse IMT,14
+ESP472,R C Kogan n 31alignement,12
+ESP473,Av LBruyère de Peupliers Tram,13
+ESP474,Prc Ouagadougou Ttoir Mantayer,12
+ESP475,R Manteyer tour n 51 sud,3
+ESP476,R G Lafourcade park O jeux,6
+ESP477,Av P Cocat n 12 CRM ,2
+ESP478,Pl Firmin Gautier,13
+ESP479,A F Viallet la Gare à Jaures,52
+ESP480,Pl Gare park gare routière,23
+ESP481,R Sémard Esclangon à l'arche,23
+ESP482,Qu Claude Bernard,37
+ESP483,R des Arts,13
+ESP484,Parvis L Néel MINATEC Voirie,23
+ESP485,R Esclangon Vercors à Weil,26
+ESP486,R Rouvière vers fourrière,7
+ESP487,R Georges Jacquet,17
+ESP488,F H Tarze r Villard de Lans ,20
+ESP489,Sq Mozart n 01 R Cuvier,9
+ESP49,Ave Randon stab Saulaie Bizan,7
+ESP490,Ec N Chorier n 21 et 23,4
+ESP491,R de Boston,9
+ESP493,R du Drac ang Sully,6
+ESP494,Parc Vallier terrain de boules,14
+ESP495,Cimetière St Roch,304
+ESP496,Ec mat J Jaurès n 02 Jay,6
+ESP497,Bd Gambetta Berriat Lesdigu,52
+ESP498,R St Jaime Servien Lorraine,24
+ESP499,Cargo park R P Claudel,19
+ESP50,Ave Beaumarchais ang A Reynier,19
+ESP500,Ch Gordes dev local EV,4
+ESP501,R H de Balzac ang Alliés,9
+ESP502,R Kennedy Jacquard  Pompidou,11
+ESP503,Pc Pompidou pel face 09 à 13,14
+ESP504,R Alliés Milliat A de Vigny,9
+ESP505,Voie E O Stalingrad Berthelot,56
+ESP506,R Léo Lagrange piste cyclable,27
+ESP507,R Peretto face n 12 et 18,2
+ESP508,R Paul Bourget,9
+ESP509,Ec prim Bajatière 06 Ch Eglise,12
+ESP51,Cité Mistral R A France 35,5
+ESP510,R du 140 RIA f du Taillefer,8
+ESP511,Ec L Jouhaux 06 R du 140 R I A,17
+ESP512,R Gén Ferrié,2
+ESP513,Chem des Alpins face n 38,2
+ESP514,Cargo Est allée entre bâtiment,8
+ESP515,Pc Pompidou al du parc face 03,28
+ESP516,Cargo Pltte ang Ext N Dame,9
+ESP517,Ch Alpins ang Lieut Chabal,3
+ESP518,Parc Cellatex espaces ouvert 2,37
+ESP519,R Rivoire Péguy Vallier,15
+ESP52,Prc Mis stab Ouest St Alpes,45
+ESP520,R E Claires Schweitzer Péguy,41
+ESP521,Pc Ch Elysés ile du lac,4
+ESP522,Ec prim n 45 R Sidi Brahim,7
+ESP523,R Coubertin service voirie,14
+ESP524,Al de la pelouse aire de jeux,29
+ESP525,Al de la pelouse SUD aire jeux,25
+ESP526,Baladins crêche des frênes,1
+ESP527,Chem des oliviers,8
+ESP528,Crique sud abords aire de jeux,12
+ESP529,Tr quartiers 170 Arlequin pel,37
+ESP53,Prc Echangeurs talus berges,228
+ESP530,Tr quartiers 170 maison médic,11
+ESP531,Tr quartiers pourtour silo 1 ,11
+ESP532,Ec des genêts,44
+ESP533,Pied butte n 08 Trident,17
+ESP534,Tr quartiers ab aire de jeux,17
+ESP535,Av Reynoard passerelle Cl Mail,13
+ESP536,R Pascal 17 à 31,13
+ESP537,Crique sud park,10
+ESP538,Prc LaBruyère SUD mail central,47
+ESP54,Bd Gallieni park n 02 à 06,7
+ESP540,R H Barbusse parvis Al Congrés,20
+ESP541,Pl L Jouvet n 08 à 20,23
+ESP542,Allée des Deux Mondes pair,20
+ESP543,Sq La Bruyère dans pelouse,7
+ESP544,R Pupin Ma Oisans à R François,7
+ESP545,R Pupin des Ecrins au tunnel,36
+ESP546,R du village face à la Poste,28
+ESP547,R des Peupliers,22
+ESP548,R Gervasoti mail des tilleuls,21
+ESP549,R du 8 Mai 1945 voie bus,11
+ESP55,Av Malherbe Pascal à J Perrot,39
+ESP550,R Arlequin silo 03 park,2
+ESP551,Pl des droits de l'enfant,7
+ESP552,Av Europe Ouest station Tram,21
+ESP553,Av Europe rond point tram,13
+ESP554,Ec Eterlous R Gervasotti,4
+ESP555,Av La Bruyère park 26 et 28,4
+ESP556,Ec Christophe Turc intèrieur,6
+ESP557,Pl Géants ext crêche Poucets,14
+ESP558,R C Kogan n 35 Jardière IMT,6
+ESP559,Av Constantine park Cascateles,52
+ESP56,Sq Lafleur R Général Ferrié,24
+ESP560,Pl des Géants 40 cour int,15
+ESP561,R C Kogan n 35 et 37,33
+ESP562,Av Reynoard Musset LBruyère,23
+ESP563,R C Kogan n 14 à 28,38
+ESP564,Allée d'Essen,68
+ESP565,Local CPHT Nord gym Malherbe,5
+ESP566,Crèche Malherbe CCAS,23
+ESP567,Av P Cocat impair alignement,5
+ESP568,Pl Claveyson,1
+ESP569,Bd Foch Tram G Rivet Marceau,37
+ESP57,Bd Vallier R Danube Libé ,59
+ESP570,Bd Mal Lyautet devant la Poste,9
+ESP571,Ec Musiq Jar 50 Qu France,6
+ESP572,Bd Gambetta Lesdigu Boissieux,26
+ESP573,Bd Gambetta de Hoche à H Ding,30
+ESP574,Caser Bonne Vallons Carnot,51
+ESP575,Jard Hoche P Fugain Nord Est,18
+ESP576,R Maginot Marceau L Carnot,12
+ESP577,R Turenne ang Augereau,19
+ESP578,R Lanoyerie talus voie ferrée,8
+ESP579,Ave Randon FC Allobroges Saul,3
+ESP58,Av J O nord Voirie,11
+ESP580,Ave Randon trottoir Bizanet ,7
+ESP581,Ave Randon Girard Masséna,9
+ESP582,Ave Randon dev musée,4
+ESP583,Jard Hoche entrée R H Ding,2
+ESP584,Jard Hoche pelouse Sud,11
+ESP585,Jard Hoche talus Nord-Est,7
+ESP586,Jard Hoche jeux Est sport,8
+ESP587,Pl André Malraux,11
+ESP588,Pc 3 H St Ferjus t Belledonne,44
+ESP589,R des Fleurs,6
+ESP59,R Henriette Deloras,7
+ESP590,R Vendres,1
+ESP591,Parc 1 Michalon Musée,23
+ESP592,Parc 2 R Hermin tour Vercors,20
+ESP593,Parc 2 R Herminier ch de Ronde,33
+ESP594,R Hébert pair Chanrion Verdun,28
+ESP595,Ave Randon dev école Bizanet ,8
+ESP596,R J Chanrion accés 07 Moulin,2
+ESP597,Crs Libération France Ronsard,78
+ESP598,Cité Mistral R A France 88,2
+ESP599,R Vaujany Dagalier au terminus,61
+ESP60,R du 140 RIA Ouest,8
+ESP600,Al Lys Rouge salle polyvalente,21
+ESP601,R Capitaine Camine CODASE,9
+ESP602,R DrSchweitzer pair,9
+ESP603,Cité Mistral Thomas aire jeux,19
+ESP604,Cité Mistral dev Tour n 74,12
+ESP605,Cité Mistral derr 74 align,9
+ESP607,Bd Clémenceau J d'arc à Driant,51
+ESP608,Bd J Pain Lyautey Haxo sép,18
+ESP609,Prc Mis park anneau vitesse,38
+ESP61,Av J Perrot n 10 TER,1
+ESP610,Prc Mis stab face Jouhaux,5
+ESP611,Prc Mis St des Alpes ceinture,80
+ESP613,Prc Mis pel Ouest Mairie,13
+ESP614,Prc Mis Mail bd Ouest t Perret,11
+ESP615,Prc Mis iles Jards esp chiens,9
+ESP616,R L Jouhaux Cocat à Fernandat,45
+ESP617,R Manteyer ang D Fontanelle,3
+ESP618,Cté Chatelet R René Cassin,14
+ESP619,Cité Moyrand R E Cartan,15
+ESP62,Ave du Grand Serre pair,17
+ESP620,Av Grd Chatelet n 43-45 ,11
+ESP621,Av J d'Arc C Genin  Perreau,9
+ESP622,M enfance av Grd Chatelet,7
+ESP623,Quatre Tours Malherbe 17 park,5
+ESP624,Bd Gallieni,8
+ESP625,R M Riollet cité rouge,35
+ESP626,R G Philippe alignement,21
+ESP627,Ec Jules Ferry 47 R L Jouhaux,14
+ESP628,Pl de la Commune de 1871,25
+ESP629,Ec mat du Gand Chatelet n 01,16
+ESP63,R Arlequin ang voie tram,7
+ESP630,Av J O Jouhaux 140 RIA sép,5
+ESP631,Av St Roch ang St Ferjus,5
+ESP632,Pc Alliance R Stalingrad,119
+ESP633,Prc Mis pel des Enfs du Drac,50
+ESP634,Ec prim A Daudet ,7
+ESP635,Pl R Frappat ang Eaux Claires,14
+ESP636,Centre social des Eaux Claires,12
+ESP637,Cargo park Est,57
+ESP639,Cité Moyrand E Cartan le mail ,29
+ESP64,La piste entre gymn et Parc,3
+ESP640,R L Jouhaux Fernanda Teisseire,20
+ESP641,Av J d'Arc Clémenceau Perraut,15
+ESP642,Chem des Arts,4
+ESP643,R L Jouhaux Pltte déchetterie,5
+ESP644,R G Tonnelier ang av Teiseire,4
+ESP645,Cité Ab Chatelet R R Cassin,4
+ESP646,Cité Moyrand R Dupleix pair,8
+ESP647,Sq La Bruyère,9
+ESP648,Av Paul Cocat impair,15
+ESP649,R Flandrin voie Tram,16
+ESP65,Foyer 1900 R Ninon Vallin,9
+ESP650,R Valles ang C Genin,1
+ESP651,Av J O de Jouhaux à 140 RIA,15
+ESP652,Av Malherbe J Perrot GPhilippe,26
+ESP653,R Stalingrad park Mancret,9
+ESP654,Green Way 19 R Gén Ferrié,12
+ESP655,Sq Foch ang Mangin,49
+ESP656,Ec prim Elisée Chatin,15
+ESP657,R Jacquard propreté urbaine,3
+ESP658,Sq Capitaine Camine,59
+ESP659,Parc Cellatex Jards collectifs,25
+ESP66,Ferme Prémol,26
+ESP660,R A France Houille Blanche,13
+ESP661,Pc Ch Elysés Est du lac,42
+ESP662,Pc Savane pelouses Nord,91
+ESP663,Jard du 8 mai 1945 R Bouchayer,51
+ESP664,Crêche du Couvent,4
+ESP665,Av A Belgique Durand Rivet,26
+ESP666,Av Champon pair,9
+ESP667,Av J Perrot ang Stat Ponsard,19
+ESP668,R Obiou ang Dent de Crolles,5
+ESP669,R de l'Obiou impair,7
+ESP67,R Arlequin pourtour silo 04,80
+ESP670,R Stalingrad Jacquard Lagrange,6
+ESP671,R Jacquard Mangin à Kenedy,9
+ESP672,Ch d'Isly ang Jules Ferry,6
+ESP673,R Kennedy Jacquard à Louvois,12
+ESP674,R des Alliés Reynoard Flaubert,31
+ESP675,R DrBordier pair,16
+ESP676,R 140 RIA Est,7
+ESP677,R J Ferry Lumière et Ch d'isly,10
+ESP678,R Peretto Berthelot Gay Lussac,12
+ESP679,R Kruger,4
+ESP68,R Manteyer n 53,3
+ESP680,Av J Perrot ang J O  Chapitre,23
+ESP681,Prc Pompidou alignt central,8
+ESP682,Av J O nord n 1000 à 1030,5
+ESP683,R P Mérimée la Bifurk,20
+ESP684,Cargo triang gazon R P Claudel,12
+ESP685,Prc Pompidou pourtour rocaille,14
+ESP686,Cargo Ext NDame piste cyclable,11
+ESP687,Pc Ch Elysés entree dr Farges,10
+ESP688,R A France CODASE ang Camine,26
+ESP689,Sq Péguy ang Le cardonnel,9
+ESP69,R Durand Savoyat talus pont,3
+ESP690,Av Europe 30 32 le Polynôme,17
+ESP691,Av Lbruyère S-O passe Malherbe,33
+ESP692,Al de la pelouse Ec des Frênes,6
+ESP693,Al des Genêts,6
+ESP694,Al Genêts align sillo tennis,13
+ESP695,Butte n 01,23
+ESP696,Chem de la Piscine Baladins,6
+ESP697,Crique sud n 170 Arlequin,16
+ESP698,Gal Arlequin n 80 patio,12
+ESP699,Pied butte n 02 école du Lac,3
+ESP7,A A Lorraine Jaures à la Gare,22
+ESP70,Ec mat Vallier R Greffier,8
+ESP700,Le Zénith,68
+ESP701,Av Reynoard Village au Collège,56
+ESP702,Gal de l'Arlequin n 10,13
+ESP703,Cité Léon Jouhaux,205
+ESP704,Sq H Mauchant face n 16 à 22,25
+ESP705,R Pupin de Esmonin aux Ecrins,17
+ESP706,R Maquis de l'Oisans impair,15
+ESP707,R Esmonin  Reynoard à Pupin ,27
+ESP708,R A France Parvis du Plateau,12
+ESP71,R du Fer à Cheval,1
+ESP710,R Alliés Milliat à A de Vigny,22
+ESP711,R Arts de montagne Talus,67
+ESP712,Prc Mis pel mon des déportés,27
+ESP713,Prc Mis pel Col Driant,16
+ESP714,Prc Mis tour de la Bobine,19
+ESP715,Villa Arthaud R Colonel Driant,9
+ESP716,Av J O Poterne à J Valles,2
+ESP717,Av J d'Arc Perreau Clémenceau,16
+ESP718,Bd Clémenceau Valmy  J d'arc,10
+ESP719,Impasse Ganganeli,19
+ESP72,Rte de Clémencières square,21
+ESP720,Prc Echangeurs Valmy Gallieni,261
+ESP721,R Turgot Le Nôtre à Lemaitre,20
+ESP722,R Jouhaux Teisseire à Repos,22
+ESP723,R Cardinal le Camus impair,11
+ESP724,Pc Ch Elysés Ouest du lac,132
+ESP725,Pc Savane aire jeux Painlevé,24
+ESP726,Pc Savane local pétanque,29
+ESP727,Ec prim Painlevé 73 Bouchayer,12
+ESP728,M J C Anatole France,3
+ESP729,Av J Perrot ang J O 93 105,20
+ESP73,R Barral église St Vinc Paul,2
+ESP730,Bd Foch Mallifaud Rivet,7
+ESP731,Bd Foch Mallifaud angle Rivet,1
+ESP732,Ch église Monge Berthelot,17
+ESP733,Park Mallifaud ang P Janet,19
+ESP734,R de la Bajatière,18
+ESP735,Sq Bajatière Chem de l'église,51
+ESP736,R Alliés Stalingrad  H Balzac,33
+ESP737,R Romanet 12 à 140 RIA,9
+ESP738,Voie E O Cargo à J Perrot,47
+ESP739,R P Janet ang A1 Belgique,3
+ESP74,Ave Randon impair Ronde Girard,12
+ESP740,R Paul Doumer,9
+ESP741,R F James pair n 26 à 68,7
+ESP742,Garderie la Trottinette,4
+ESP743,Bd Foch Tram Marceau G Rivet,16
+ESP744,Chem d'Isly ang R Moyrand,4
+ESP745,R Dunant ang B de Montferrat,13
+ESP746,R des Chardonnerets,30
+ESP747,R Esmonin talus Alibert ,32
+ESP748,R Esmonin Blum au rond point,75
+ESP749,Alpexpo butte,13
+ESP75,Jard Hoche cour du mikado,35
+ESP750,Al de la pelouse Ch Collège,8
+ESP751,Chem de la Piscine FPA du Lac,29
+ESP752,Chem du Collège,7
+ESP753,Crique sud abords terr de foot,33
+ESP754,Crique sud Pltte mais médicale,8
+ESP755,Gal Arlequin Arbre fruitier,39
+ESP756,Tr quartiers montée des Genêts,45
+ESP757,Passage la Fontaine,12
+ESP758,Pl des Saules,19
+ESP759,R des trois épis 13 à 20,35
+ESP76,Parc 2 R Hermin align central,20
+ESP760,R du Trident 12 et 13,29
+ESP761,Grande pelouse butte des pins,262
+ESP762,Pelouse massif du lac,31
+ESP763,Av Reynoard Lbruyère a Village,47
+ESP764,Prc La Bruyère mail central,35
+ESP765,R Arlequin massif tennis,8
+ESP766,R des Bergeronnettes,5
+ESP767,R Pascal du 17 au 31,5
+ESP768,Pl L Jouvet n 22 à 28,19
+ESP769,R P Claudel sous bois,31
+ESP77,Ave Randon Est éc Bizanet,15
+ESP770,R Turgot marché Malherbe,3
+ESP771,Allée des Romantiques impair,71
+ESP772,Garage central Malherbe Est,64
+ESP773,R A Vigny ang G de Maupassant,8
+ESP774,R des Destinées,8
+ESP775,R Lorenzaccio pair,15
+ESP776,Centre social Prémol,16
+ESP777,R Village pel contre immeubles,9
+ESP778,R G Lafourcade Terrain Blanc,29
+ESP779,Ec mat Malherbe n 40 R Pascal,12
+ESP78,Cité les Vignes n 39 à 43 ,4
+ESP780,R Manteyer n 21 derrière,1
+ESP781,Pl Gare arrêt Tram terminus,31
+ESP782,Pl de Sfax devant biblio inter,15
+ESP783,Parvis F Latour,13
+ESP784,R J Rey Berriat à N Chorrier,28
+ESP785,R Sémard devant hôtel Europole,3
+ESP786,R Victor Lastella cote pair,4
+ESP787,R Adrien Ricard,11
+ESP788,R Colonel Veyron Lacroix,6
+ESP789,Ec J Macé n 01 R J Lyonnaz,9
+ESP79,Ec la Saulaie pôle musical,6
+ESP790,Q de la Graille Jeux de boules,3
+ESP792,Trémie tram R Amiral Courbet,23
+ESP793,Sq Coppier R de l'isère,14
+ESP794,Cité F Gauthier abord bati,33
+ESP795,Pt Catane Nord Vallier Voirie,7
+ESP796,R A Grégoire n 65,1
+ESP797,R Ampère ang Raspail,7
+ESP798,R Alembert derr piscine,5
+ESP799,R de New York ang Paris,1
+ESP8,Park l durée r E Gueymard,60
+ESP80,Ec mat Bizanet 51 ave Randon,14
+ESP800,R Pierre Duclot ,2
+ESP801,A Lorraine pair Gambet Jaures,17
+ESP802,Crs La Fontaine impair Champo,6
+ESP803,R Expilly Pl J Achard ,1
+ESP804,Pl de la Cymaise,29
+ESP805,Qu des Allobroges,16
+ESP806,Ec mat n 11 R Millet,1
+ESP807,Ec prim Jard de ville,8
+ESP808,Halte gard n 9 R de la Poste,6
+ESP809,Bd Esplan pair n 02 à 44,39
+ESP81,Allée Vaucanson,61
+ESP810,Bd Esplan pair n 44-58 Lyon,14
+ESP811,Bd Foch pair Hôt Mercure park ,13
+ESP812,Pl Pasteur Diabl bleus Champon,8
+ESP813,Jard des Dauphins petit nice,3
+ESP814,Jard des Dauphins vasques ,11
+ESP815,Jard Léon Moret,6
+ESP816,Bd Gambetta de H Ding à Foch ,8
+ESP817,Jard Hoche P Fugain buttes,62
+ESP818,R Augereau ang Marceau,3
+ESP819,Pl d'Apvril,19
+ESP82,Ec prim Cornélie Gémond,5
+ESP820,Ave Randon St Eynard Piquet,13
+ESP821,Ave Randon Piquet Mortillet,3
+ESP822,Ave Randon Mortillet Girard,9
+ESP823,Pl Lavalette Musée,12
+ESP824,Jard Hoche entrée Nord Est,3
+ESP825,R Bizanet,11
+ESP826,R de Mortillet,10
+ESP827,R Menon Oddos alignement,6
+ESP828,Ave St Roch monument du Génie,5
+ESP829,Parc 1 Michalon Qu Jongkind,17
+ESP830,R Hébert imp Verdun St Roch,52
+ESP831,Stade Salvator Alliende,15
+ESP832,Cité les Vignes n 03 à 07,11
+ESP833,Esplan F Mitterand Musée,18
+ESP834,Ave Rochambeau,27
+ESP835,R Martin Lutherking,18
+ESP836,R Hilaire de Chardonnet,71
+ESP837,R Vaujany Libération Dagalier,31
+ESP838,Cité Abry sur pelouses,27
+ESP839,Cité Mistral stab Sud 74,19
+ESP84,Hôtel Lesdiguières,99
+ESP840,Cité Mistral la prairie,33
+ESP841,Bd Diable Bleu Mistral Pasteur,7
+ESP842,Prc Mis entre Mairie et bds,9
+ESP843,Prc Mis pelses du koster,43
+ESP844,Prc Mis Mail bds Est t Perret,33
+ESP845,Prc Mis Al des Justes Ouest,29
+ESP846,Prc Mis sous-bois de hêtres,15
+ESP847,Prc Mis massif Nord médaillon,30
+ESP848,Prc Mis arr mont diables bleus,69
+ESP849,Prc Mis tunnel du petit train,19
+ESP85,R Col Driant cote Parc,13
+ESP850,Prc Mis Est bassin grenouilles,20
+ESP851,R Turgot n 05 vers la voute,3
+ESP852,R Manteyer n 31,10
+ESP853,Av J O Poterne caisse épargne,4
+ESP854,R M Bourette nord contre bati,9
+ESP855,Cité Teisseire le bassin Voirie,10
+ESP856,Ch la Poterne st Vercors park,14
+ESP857,R Pont Carpin intérieur,16
+ESP858,Prc Ech Valmy Gallieni Voirie,12
+ESP86,R J Bart pair,22
+ESP860,Av J O Kaunas à Mantayer,6
+ESP861,Ave Teisseire impair,24
+ESP862,R du Repos tennis couverts,6
+ESP863,Av Fenelon Littré à Boileau,12
+ESP864,Av J Perrot Manteyer à JO sép,12
+ESP865,Av Berthelot crédit agricole,13
+ESP866,Bd Gallieni derrière 02 04 06,4
+ESP867,Louvois entrée Prc Pompidou,18
+ESP868,R Gén Mangin parc à chiens,17
+ESP869,Prc Mis Est Palais des sports,148
+ESP87,Av P Cocat Pltte de la poste,11
+ESP870,Ec mat Elisée Chatin,15
+ESP871,R Esmonin Rond point à Blum,13
+ESP872,Pc Ch Elysés Ouest,194
+ESP873,Bd J Vallier voie tram impair,55
+ESP874,Pc Savane stab aire de jeux,18
+ESP875,R R Salengro pel Hlle Blanche,56
+ESP876,Av A Belgique Perrot Cornier,36
+ESP877,Av Berthelot arrêt tram MC2,8
+ESP878,Parc Soulage,109
+ESP879,R de l'Echaillon,9
+ESP88,R Argouges  Jouhaux à C Rivail,19
+ESP880,R de l'Obiou pair,14
+ESP881,R Stalingrad Balzac à Alliés,25
+ESP882,R H de Balzac ang Jacquard,10
+ESP883,R Jacquard ang H de Balzac,5
+ESP884,R Jacquard Louvois à Kenedy,16
+ESP885,Square Marcel Peretto,20
+ESP886,R Lebrix ang L Lagrange,17
+ESP887,Sq Roger Louis Lachat,10
+ESP888,R Alliés Marquiand  Matussière,21
+ESP889,R Déportés Vaillant  Bourget,11
+ESP89,R René Lesage aire de jeux,3
+ESP890,R Léo Lagrange trottoir park,40
+ESP891,R Louvois,20
+ESP892,R Ponsard ang Berthelot,2
+ESP893,R du Mont Aiguille imm rond,15
+ESP894,Cargo ang P Claudel Berthelot,9
+ESP895,R Dent de Crolles square,5
+ESP896,Pt de Catane Sud align Tram,7
+ESP897,Pc Ch Elysés Maison l'enfance,62
+ESP898,Pc Ch Elysés pel petit train,37
+ESP899,Ec Mistral ave Rhin et Danube,16
+ESP9,R Tarze D Savoyat à Vil lans,13
+ESP90,Chem Guilbaut ouest,8
+ESP900,R Salengro Drevet Ch Pit Nice,41
+ESP901,Res La Bruyère 40 à 48,9
+ESP902,R Esmonin talus IMT,65
+ESP903,Baladins talus MJC,72
+ESP904,Butte n 02 statue,40
+ESP905,Hauts du PARC,21
+ESP906,Chem du Parc bosquet,56
+ESP907,Ec des buttes,15
+ESP908,R Arlequin park Res LBruyère,21
+ESP909,Cité Teisseire le bassin,47
+ESP91,R L et A Lumière ang Pegoud,6
+ESP910,Pl Ch Dullin partie centrale,69
+ESP911,Pl L Jouvet n 02 à 06,5
+ESP912,Sq H Mauchant grande pelouse,26
+ESP913,Allée des Deux Mondes impair,19
+ESP914,Sq Marcellin Berthelot,122
+ESP915,Allée des Romantiques pair,87
+ESP916,Ave La Bruyère impair,21
+ESP917,R Pupin du tunnel à Esmonin,36
+ESP918,Av Reynoard Dir dép du travail,12
+ESP919,All des Frênes pel Cascatelles,12
+ESP92,R Hypolite Muller,5
+ESP920,R du 8 Mai 1945 voie bus talus,9
+ESP921,Jard des Poêtes,85
+ESP922,Al de la Sylphide ang Vigny,8
+ESP923,Centre social Prémol patio,3
+ESP924,Av La Bruyère pak commerces,5
+ESP925,Pl des Géants 80 croix du sud,32
+ESP926,Av LBruyère Collibris Reynoard,2
+ESP927,Allée du Verderet,15
+ESP928,Garage central Malherbe Sud,8
+ESP929,R L Jouhaux ang Cocat Ravanat,4
+ESP93,R A Vigny Malarme Maupassant,9
+ESP930,Av P Cocat Tour n 16,10
+ESP931,Pl Ch Dullin pair,5
+ESP932,Ec prim Malherbe 25av Malherbe,11
+ESP933,Esp petite enfance N Valin,9
+ESP934,Pl St Bruno abords de l'église,11
+ESP935,Crêche Goélette Qu la Graille,4
+ESP936,R Mayen ang Berriat Thomas,7
+ESP937,Sq des Fusillés,28
+ESP938,R Arago ang E Gueymard,2
+ESP939,Crêche Goélette q la Graille,2
+ESP94,R Esmonin IMT,16
+ESP940,Ec C Bernard q la Graille,5
+ESP941,Bd J Vallier de Irvoy à Ampère,39
+ESP942,Sq des Fusillés part centrale,26
+ESP943,Sq J Macé Qu P L Merlin,15
+ESP944,Sq R Genin et Park D Rochereau,42
+ESP945,Minoterie Armand r R Thomas,18
+ESP946,Ec prim n 55 R Ampère,21
+ESP947,Chem de Ronde club bouliste,20
+ESP948,R Bévière Voirie,10
+ESP949,R Hermite ang Raspail,3
+ESP95,Crique sud sortie R Dodero,5
+ESP950,R Hermite zone lustucru,12
+ESP951,R Hermite lustucru,31
+ESP952,R Georges Bizet,13
+ESP953,R N Chorier ang J Prevost,6
+ESP954,Parc Vallier partie centrale,45
+ESP955,Cimetière du Petit Sablon,53
+ESP956,R C Démoulins ang Turenne,8
+ESP957,R Frédéric Taulier,12
+ESP958,Pl Ste Claire,8
+ESP959,Qu Claude Brosse,19
+ESP96,Grande pelouse massif aligne,107
+ESP960,Bd Esplan face n 02 à 44,43
+ESP961,Bd Foch Tram Marceau Lanoyerie,16
+ESP962,Bd Joffre tram Pasteur Rivet,40
+ESP963,Caser Bonne Vallons Marceau,71
+ESP964,Chem bois Artas mais retraite,9
+ESP965,Pl Valentin Hauÿ,25
+ESP966,R Berthe de Boissieux,21
+ESP967,R J Bistesi tram Chavant,2
+ESP968,R L Carnot côté Championnet,3
+ESP969,R Lesdiguières Est Gambetta,22
+ESP97,Cité Teisseire Jard des buttes,32
+ESP970,Ave Randon imp Calv St Eynard,11
+ESP971,Pl Emé de Marcieu,5
+ESP972,Jard Hoche Sud couronne extér,38
+ESP973,Jard Hoche pelouse Est,23
+ESP974,Pc 3 H St Ferjus terr pétanque,27
+ESP975,R de la Magnanerie,4
+ESP976,Bd des Adieux park et tennis ,7
+ESP977,Cité de l'Alma,24
+ESP978,Crèche du Vieux Temple,14
+ESP979,Ec prim Bizanet 51 ave Randon,13
+ESP98,R Stalingrad Vigny à Ma Oisans,15
+ESP980,Ave Rh Danube dev éc A France,7
+ESP981,Jard Plantes le long J Pain,20
+ESP982,Jard Plantes butte musée,12
+ESP983,Crs Libération Ronsard Reynier,28
+ESP984,Cité Mistral R A Thomas 16 20,8
+ESP985,Cité Mistral R A Thomas n 20,7
+ESP986,R Sidi Brahim face n 18,1
+ESP987,R A France pk Vaucanson Camine,13
+ESP988,Cité Mistral R A France n 45,5
+ESP989,Parc du Clos d'Or Stalingrad,69
+ESP99,Sq du Pas de l'aiguille,44
+ESP990,Bd Diable Bles Perrot Pasteur,8
+ESP991,Prc Mis dans vivaces Mairie,27
+ESP992,Prc Mis Tr Perret Pel Nord/Est,8
+ESP993,Prc Mis Esplan des communes,17
+ESP994,Allée Ch Pranard,13
+ESP995,Prc Echangeurs Bastion St Roch,396
+ESP996,Av J d'Arc Perreau  C Genin,9
+ESP997,Chem Barral ang Villebois,7
+ESP998,Sq Cdt Perraut,23
+ESP999,R G Philippe crédit agricole,20
