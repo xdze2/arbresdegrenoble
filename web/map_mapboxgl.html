@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+ 
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title> carte </title>
+
+<script src='https://api.tiles.mapbox.com/mapbox-gl-js/v0.42.2/mapbox-gl.js'></script>
+<link href='https://api.tiles.mapbox.com/mapbox-gl-js/v0.42.2/mapbox-gl.css' rel='stylesheet' />
+
+</head>
+
+<body>
+
+
+<h1>hello</h1>
+
+    <div id='map' style='width: 900px; height: 600px;'></div>
+    
+    
+    <script>
+    mapboxgl.accessToken = 'pk.eyJ1IjoieGR6ZTIiLCJhIjoiY2phc3N3czVsMDVoczMzbjByMDF2NWhmciJ9.XH1KQOO7DJLs3jKg4Xx3Zg';
+    
+    var map = new mapboxgl.Map({
+        container: 'map',
+        style: 'mapbox://styles/xdze2/cjatx95u7kk5k2smir5u7t7l9',
+        /*style: 'mapbox://styles/mapbox/streets-v9',*/
+        center: [5.720490, 45.192246],
+        zoom: 15,
+        minZoom: 11
+    });
+    
+    // Create a popup, but don't add it to the map yet.
+    var popup = new mapboxgl.Popup({
+        closeButton: false,
+        closeOnClick: false
+    });
+
+    map.on('mouseenter', 'arbrestot', function(e) {
+        // Change the cursor style as a UI indicator.
+        map.getCanvas().style.cursor = 'pointer';
+
+        // Populate the popup and set its coordinates
+        // based on the feature found.
+        popup.setLngLat(e.features[0].geometry.coordinates)
+            .setHTML(e.features[0].properties.GENRE_BOTA)
+            .addTo(map);
+    });
+
+    map.on('mouseleave', 'places', function() {
+        map.getCanvas().style.cursor = '';
+        popup.remove();
+    });
+    </script>
+
+
+ 
+</body>
+</html> 
