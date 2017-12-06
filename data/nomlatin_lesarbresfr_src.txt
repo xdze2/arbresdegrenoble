@@ -1,0 +1,534 @@
+<tr bgcolor="#ffffcc"><td><a href="abelia.html">Abelia en fleurs</a></td><td><i>Abelia triflora</i></td><td>Abelia three flowers</td></tr>
+<tr bgcolor="#ffffec"><td><a href="sapin.html">Sapin pectiné</a></td><td><i>Abies alba</i></td><td>Silver Fir</td></tr>
+<tr bgcolor="#ffffcc"><td><a href="sapincephalonica.html">Sapin de Grèce</a></td><td><i>Abies cephalonica</i></td><td>Greek Fir</td></tr>
+<tr bgcolor="#ffffec"><td><a href="sapincilicica.html">Sapin de Cilicie</a></td><td><i>Abies cilicica</i></td><td>Cilician Fir</td></tr>
+<tr bgcolor="#ffffcc"><td><a href="sapin.html">Sapin du Colorado</a></td><td><i>Abies concolor</i></td><td>White Fir, Concolor Fir</td></tr>
+<tr bgcolor="#ffffec"><td><a href="sapinvancouver.html">Sapin de Vancouver</a></td><td><i>Abies grandis</i></td><td>Grand Fir, Great Fir</td></tr>
+<tr bgcolor="#ffffcc"><td><a href="sapinnoble.html">Sapin noble</a></td><td><i>Abies nobilis, procera</i></td><td>Noble Fir</td></tr>
+<tr bgcolor="#ffffec"><td><a href="sapinnord.html">Sapin du Caucase, sapin de Nordmann</a></td><td><i>Abies nordmanniana</i></td><td>Nordmann Fir</td></tr>
+<tr bgcolor="#ffffcc"><td><a href="sapinnumidica.html">Sapin d'Algérie</a></td><td><i>Abies numidica</i></td><td>Algerian Fir</td></tr>
+<tr bgcolor="#ffffec"><td><a href="pinsapo.html">Sapin d'Espagne</a></td><td><i>Abies pinsapo</i></td><td>Spanish Fir</td></tr>
+<tr bgcolor="#ffffcc"><td><a href="acacia.html">Mimosa</a></td><td><i>Acacia dealbata</i></td><td>Silver Wattle</td></tr>
+<tr bgcolor="#ffffec"><td><a href="acacia.html">Acacia à bois dur</a></td><td><i>Acacia melanoxylon</i></td><td>Acacia hardwood</td></tr>
+<tr bgcolor="#ffffcc"><td><a href="acacia.html">Mimosa quatre saisons</a></td><td><i>Acacia retinodes</i></td><td>Retinodes Water Wattle, Swamp Wattle, Wirilda, Eve</td></tr>
+<tr bgcolor="#ffffec"><td><a href="erableasie.html">Érable acuminé</a></td><td><i>Acer acuminatum</i></td><td>Acer acuminatum</td></tr>
+<tr bgcolor="#ffffcc"><td><a href="erableasie.html">Érable à écorce de dragon</a></td><td><i>Acer burgerianum</i></td><td>Trident Maple</td></tr>
+<tr bgcolor="#ffffec"><td><a href="erable.html">Érable champêtre</a></td><td><i>Acer campestre</i></td><td>Field Maple, Hedge Maple</td></tr>
+<tr bgcolor="#ffffcc"><td><a href="erableasie.html">Érable aux pétioles filiformes</a></td><td><i>Acer capillipes</i></td><td>Kyushu Maple</td></tr>
+<tr bgcolor="#ffffec"><td><a href="erable.html">Érable de Cappadoce</a></td><td><i>Acer cappadocium</i></td><td>Cappadocian Maple</td></tr>
+<tr bgcolor="#ffffcc"><td><a href="erable.html">Érable à feuilles de charme</a></td><td><i>Acer carpinifolium</i></td><td>Hornbeam Maple</td></tr>
+<tr bgcolor="#ffffec"><td><a href="erableasie.html">Érable du Père David</a></td><td><i>Acer davidii</i></td><td>David’s Maple</td></tr>
+<tr bgcolor="#ffffcc"><td><a href="erableasie2.html">Érable du fleuve Amour</a></td><td><i>Acer ginnala</i></td><td>Amur Maple</td></tr>
+<tr bgcolor="#ffffec"><td><a href="erableasie.html">Érable gris</a></td><td><i>Acer griseum</i></td><td>Paperbark Maple</td></tr>
+<tr bgcolor="#ffffcc"><td><a href="erableasie.html">Érable de Hers</a></td><td><i>Acer grosseri hersii</i></td><td>Grosser’s Maple</td></tr>
+<tr bgcolor="#ffffec"><td><a href="erableasie2.html">Érable du Japon</a></td><td><i>Acer japonicum</i></td><td>Fullmoon Maple</td></tr>
+<tr bgcolor="#ffffcc"><td><a href="erable.html">Érable de Montpellier</a></td><td><i>Acer monspessulanum</i></td><td>Montpellier Maple</td></tr>
+<tr bgcolor="#ffffec"><td><a href="erableame.html">Érable negundo</a></td><td><i>Acer negundo</i></td><td>Boxelder</td></tr>
+<tr bgcolor="#ffffcc"><td><a href="erableame.html">Érable noir</a></td><td><i>Acer nigrum</i></td><td>Black Maple</td></tr>
+<tr bgcolor="#ffffec"><td><a href="erable.html">Érable d'Italie, érable à feuilles d'obier</a></td><td><i>Acer opalus</i></td><td>Italian Maple</td></tr>
+<tr bgcolor="#ffffcc"><td><a href="erableasie2.html">Érable palmé</a></td><td><i>Acer palmatum</i></td><td>Japanese Maple</td></tr>
+<tr bgcolor="#ffffec"><td><a href="erableasie.html">Érable jaspé</a></td><td><i>Acer pennsylvanicum</i></td><td>Striped maple</td></tr>
+<tr bgcolor="#ffffcc"><td><a href="erable.html">Érable plane</a></td><td><i>Acer platanoïdes</i></td><td>Norway Maple</td></tr>
+<tr bgcolor="#ffffec"><td><a href="erable.html">Érable sycomore</a></td><td><i>Acer pseudoplatanus</i></td><td>Sycomore</td></tr>
+<tr bgcolor="#ffffcc"><td><a href="erableasie2.html">Érable pycnanthum</a></td><td><i>Acer pycnanthum</i></td><td>Maple pycnanthum</td></tr>
+<tr bgcolor="#ffffec"><td><a href="erableame.html">Érable rouge</a></td><td><i>Acer rubrum</i></td><td>Red Maple, Swamp Maple</td></tr>
+<tr bgcolor="#ffffcc"><td><a href="erableasie.html">Érable rufinerve</a></td><td><i>Acer rufinerve</i></td><td>Redvein Maple</td></tr>
+<tr bgcolor="#ffffec"><td><a href="erableame.html">Érable argenté</a></td><td><i>Acer saccharinum</i></td><td>Silver Maple</td></tr>
+<tr bgcolor="#ffffcc"><td><a href="erableame.html">Érable de Wier</a></td><td><i>Acer saccharinum laciniatum</i></td><td>Silver Maple</td></tr>
+<tr bgcolor="#ffffec"><td><a href="erableame.html">Érable à sucre</a></td><td><i>Acer saccharum</i></td><td>Sugar Maple</td></tr>
+<tr bgcolor="#ffffcc"><td><a href="erableasie.html">Érable shirasawanum</a></td><td><i>Acer shirasawanum</i></td><td>Shirasawa's Maple</td></tr>
+<tr bgcolor="#ffffec"><td><a href="erableasie.html">Érable shirasawanum doré</a></td><td><i>Acer shirasawanum aureum</i></td><td>Golden Maple shirasawanum</td></tr>
+<tr bgcolor="#ffffcc"><td><a href="">Érable de Tartarie</a></td><td><i>Acer tataricum</i></td><td>Tatar Maple</td></tr>
+<tr bgcolor="#ffffec"><td><a href="kiwi.html">Arbre à kiwi</a></td><td><i>Actinidia chinensis</i></td><td>Kiwi Tree</td></tr>
+<tr bgcolor="#ffffcc"><td><a href="baobab.html">Baobab</a></td><td><i>Adansonia fony</i></td><td>Baobab</td></tr>
+<tr bgcolor="#ffffec"><td><a href="marronnier.html">Marronnier de Californie</a></td><td><i>Aesculus californica</i></td><td>California buckeye</td></tr>
+<tr bgcolor="#ffffcc"><td><a href="marronnierautres.html">Marronnier jaune, Pavier jaune</a></td><td><i>Aesculus flava</i></td><td>Yellow Buckeye</td></tr>
+<tr bgcolor="#ffffec"><td><a href="marronnier.html">Marronnier d'Inde</a></td><td><i>Aesculus hippocastanum</i></td><td>Horse Chestnut</td></tr>
+<tr bgcolor="#ffffcc"><td><a href="marronnier.html">Marronnier de l'Himalaya</a></td><td><i>Aesculus indica</i></td><td>Indian Horse Chestnut</td></tr>
+<tr bgcolor="#ffffec"><td><a href="">Pavier blanc</a></td><td><i>Aesculus parviflora</i></td><td>Bottlebrush Buckeye</td></tr>
+<tr bgcolor="#ffffcc"><td><a href="marronnierautres.html">Pavier rouge</a></td><td><i>Aesculus pavia</i></td><td>Red Buckeye</td></tr>
+<tr bgcolor="#ffffec"><td><a href="marronnierautres.html">Marronnier rouge</a></td><td><i>Aesculus x carnea</i></td><td>Red chestnut</td></tr>
+<tr bgcolor="#ffffcc"><td><a href="ailante.html">Ailante</a></td><td><i>Ailanthus altissima</i></td><td>Tree of Heaven</td></tr>
+<tr bgcolor="#ffffec"><td><a href="alangium.html">Alangium</a></td><td><i>Alangium chinense</i></td><td>Alangium</td></tr>
+<tr bgcolor="#ffffcc"><td><a href="albizia.html">Albizia, Acacia rose de Constantinople</a></td><td><i>Albizia julibrissin</i></td><td>Silk Tree</td></tr>
+<tr bgcolor="#ffffec"><td><a href="aulne.html">Aulne de Corse, Aulne à feuilles en cœur</a></td><td><i>Alnus cordata</i></td><td>Italian Alder</td></tr>
+<tr bgcolor="#ffffcc"><td><a href="aulne.html">Aulne glutineux</a></td><td><i>Alnus glutinosa</i></td><td>Common Alder, Black Alder,  Alder</td></tr>
+<tr bgcolor="#ffffec"><td><a href="aulne.html">Aulne lacinié</a></td><td><i>Alnus glutinosa Imperialis</i></td><td>Laciniated Alder</td></tr>
+<tr bgcolor="#ffffcc"><td><a href="aulne.html">Aulne blanchâtre</a></td><td><i>Alnus incana</i></td><td>Gray Alder</td></tr>
+<tr bgcolor="#ffffec"><td><a href="aulnerouge.html">Aulne rouge</a></td><td><i>Alnus rubra</i></td><td>Red Alder</td></tr>
+<tr bgcolor="#ffffcc"><td><a href="aulne.html">Aulne de Siebold</a></td><td><i>Alnus sieboldiana</i></td><td>Alder Siebold</td></tr>
+<tr bgcolor="#ffffec"><td><a href="aulne.html">Aulne vert</a></td><td><i>Alnus viridis</i></td><td>Green Alder</td></tr>
+<tr bgcolor="#ffffcc"><td><a href="amelanchier.html">Amélanchier du Canada</a></td><td><i>Amelanchier laevis</i></td><td>Allegheny Serviceberry</td></tr>
+<tr bgcolor="#ffffec"><td><a href="amelanchier.html">Amélanchier</a></td><td><i>Amelanchier ovalis</i></td><td>Snowy Mespilus</td></tr>
+<tr bgcolor="#ffffcc"><td><a href="anacardier.html">Anacardier, Acajou à pommes</a></td><td><i>Anacardium occidentale</i></td><td>Cashew</td></tr>
+<tr bgcolor="#ffffec"><td><a href="aralia.html">Aralia élevé, Angélique de Chine, Angélique en arbre</a></td><td><i>Aralia elata</i></td><td>Japanese Angelica-tree</td></tr>
+<tr bgcolor="#ffffcc"><td><a href="aralia.html">Aralia, Angélique épineuse</a></td><td><i>Aralia spinosa</i></td><td>Devil's Walkingstick, Hercules Club</td></tr>
+<tr bgcolor="#ffffec"><td><a href="araucaria.html">Arbre candélabre</a></td><td><i>Araucaria angustifolia</i></td><td>Paraná Pine</td></tr>
+<tr bgcolor="#ffffcc"><td><a href="araucaria.html">Araucaria du Chili, Désespoir des singes</a></td><td><i>Araucaria araucana</i></td><td>Monkey-Puzzle Tree</td></tr>
+<tr bgcolor="#ffffec"><td><a href="araucaria2.html">Araucaria d'Australie</a></td><td><i>Araucaria bidwillii</i></td><td>Bunya Pine</td></tr>
+<tr bgcolor="#ffffcc"><td><a href="araucaria3.html">Araucaria de Cook</a></td><td><i>Araucaria columnaris</i></td><td>Cook Pine</td></tr>
+<tr bgcolor="#ffffec"><td><a href="araucaria4.html">Pin de Norfolk</a></td><td><i>Araucaria heterophylla</i></td><td>Norfolk Island Pine</td></tr>
+<tr bgcolor="#ffffcc"><td><a href="arbousier.html">Arbousier</a></td><td><i>Arbutus andrachne</i></td><td>Arbutus</td></tr>
+<tr bgcolor="#ffffec"><td><a href="arbousier.html">Arbousier américain</a></td><td><i>Arbutus menziesii</i></td><td>Pacific madrone</td></tr>
+<tr bgcolor="#ffffcc"><td><a href="arbousier.html">Arbousier</a></td><td><i>Arbutus unedo</i></td><td>Strawberry Tree</td></tr>
+<tr bgcolor="#ffffec"><td><a href="arganier.html">Arganier</a></td><td><i>Argania spinosa</i></td><td>Argan</td></tr>
+<tr bgcolor="#ffffcc"><td><a href="aronia.html">Aronie rouge</a></td><td><i>Aronia arbutifolia, Photinia pyrifolia</i></td><td>Red chokeberry</td></tr>
+<tr bgcolor="#ffffec"><td><a href="aronia.html">Aronie</a></td><td><i>Aronia melanocarpa, Photinia melanocarpa</i></td><td>Black chokeberry</td></tr>
+<tr bgcolor="#ffffcc"><td><a href="aronia.html">Aronie pourpre</a></td><td><i>Aronia prunifolia, Photinia floribunda</i></td><td>Purple chokeberry</td></tr>
+<tr bgcolor="#ffffec"><td><a href="pain.html">Arbre à pain</a></td><td><i>Artocarpus altilis</i></td><td>Breadfruit</td></tr>
+<tr bgcolor="#ffffcc"><td><a href="jacquier.html">Jacquier</a></td><td><i>Artocarpus integrifolia</i></td><td>Common Jackfruit</td></tr>
+<tr bgcolor="#ffffec"><td><a href="baccharis.html">Faux cotonnier</a></td><td><i>Baccharis</i></td><td>Baccharis</td></tr>
+<tr bgcolor="#ffffcc"><td><a href="bauhinia.html">Bauhinia</a></td><td><i>Bauhinia</i></td><td>Bauhinia</td></tr>
+<tr bgcolor="#ffffec"><td><a href="beaucarnea.html">Pied d'éléphant, Arbre bouteille</a></td><td><i>Beaucarnea recurvata</i></td><td>Ponytail Palm</td></tr>
+<tr bgcolor="#ffffcc"><td><a href="berberis.html">Epine-vinette de Gagne-pain</a></td><td><i>Berberis gagnepainii</i></td><td>Gagnepain Barberry</td></tr>
+<tr bgcolor="#ffffec"><td><a href="berberis.html">Épine-vinette de Thunberg</a></td><td><i>Berberis thunbergii</i></td><td>Red Barberry</td></tr>
+<tr bgcolor="#ffffcc"><td><a href="berberis.html">Épine-vinette verruqueuse</a></td><td><i>Berberis verruculosa</i></td><td>Warty Barberry</td></tr>
+<tr bgcolor="#ffffec"><td><a href="berberis.html">Epine-vinette</a></td><td><i>Berberis vulgaris</i></td><td>European Barberry</td></tr>
+<tr bgcolor="#ffffcc"><td><a href="bouleauame.html">Bouleau noir</a></td><td><i>Betula nigra</i></td><td>River Birch</td></tr>
+<tr bgcolor="#ffffec"><td><a href="bouleauame.html">Bouleau à canots, B. à papier</a></td><td><i>Betula papyrifera</i></td><td>Paper Birch, Canoe Birch</td></tr>
+<tr bgcolor="#ffffcc"><td><a href="bouleau.html">Bouleau lacinié</a></td><td><i>Betula pendula Dalecarlica</i></td><td>Silver Birch</td></tr>
+<tr bgcolor="#ffffec"><td><a href="bouleau.html">Bouleau blanc, B. verruqueux, B. d'Europe</a></td><td><i>Betula pendula, B. verrucosa</i></td><td>Common birch</td></tr>
+<tr bgcolor="#ffffcc"><td><a href="bouleauame.html">Bouleau gris</a></td><td><i>Betula populifolia</i></td><td>Gray Birch, Old Field Birch, White Birch</td></tr>
+<tr bgcolor="#ffffec"><td><a href="bouleau.html">Bouleau pubescent</a></td><td><i>Betula pubescens</i></td><td>White Birch</td></tr>
+<tr bgcolor="#ffffcc"><td><a href="bouleau.html">Bouleau pourpre</a></td><td><i>Betula purpurea</i></td><td>Purple Birch</td></tr>
+<tr bgcolor="#ffffec"><td><a href="bouleauasie.html">Bouleau de l'Himalaya</a></td><td><i>Betula utilis, var. Jacquemontii</i></td><td>Himalayan Birch</td></tr>
+<tr bgcolor="#ffffcc"><td><a href="bouleau.html">Bouleau merisier</a></td><td><i>Betulus lenta</i></td><td>Cherry Birch</td></tr>
+<tr bgcolor="#ffffec"><td><a href="murier.html">Mûrier à papier</a></td><td><i>Broussonetia papyrifera</i></td><td>Paper Mulberry</td></tr>
+<tr bgcolor="#ffffcc"><td><a href="buddleia.html">Arbre à papillons</a></td><td><i>Buddleia Davidii</i></td><td>Butterfly Tree</td></tr>
+<tr bgcolor="#ffffec"><td><a href="buis.html">Buis</a></td><td><i>Buxus sempervirens</i></td><td>Common Box, Boxwood</td></tr>
+<tr bgcolor="#ffffcc"><td><a href="caesalpinia.html">Oiseau de paradis</a></td><td><i>Caesalpinia gilliesii</i></td><td>Bird-of-Paradise Tree</td></tr>
+<tr bgcolor="#ffffec"><td><a href="callicarpa.html">Callicarpe</a></td><td><i>Callicarpa bodinieri</i></td><td>Bodinier's Beautyberry</td></tr>
+<tr bgcolor="#ffffcc"><td><a href="callistemon.html">Rince-bouteille</a></td><td><i>Callistemon citrinus</i></td><td>Bottle Brush</td></tr>
+<tr bgcolor="#ffffec"><td><a href="calocedre.html">Calocèdre, Cèdre à encens</a></td><td><i>Calocedrus decurrens</i></td><td>California Incense Cedar</td></tr>
+<tr bgcolor="#ffffcc"><td><a href="calycanthus.html">Calycanthe</a></td><td><i>Calycanthus fertilis</i></td><td>Sweet shrub</td></tr>
+<tr bgcolor="#ffffec"><td><a href="papayer.html">Papayer</a></td><td><i>Carica papaya</i></td><td>Papaya</td></tr>
+<tr bgcolor="#ffffcc"><td><a href="charme.html">Charme</a></td><td><i>Carpinus betulus</i></td><td>Hornbeam</td></tr>
+<tr bgcolor="#ffffec"><td><a href="">Charme d'Orient</a></td><td><i>Carpinus orientalis</i></td><td>East Hornbeam</td></tr>
+<tr bgcolor="#ffffcc"><td><a href="noyerame.html">Pacanier</a></td><td><i>Carya illinoensis, C olivaeformis</i></td><td>Pecan</td></tr>
+<tr bgcolor="#ffffec"><td><a href="noyerame.html">Hickory, Noyer blanc d'Amérique</a></td><td><i>Carya ovata, amara, cordiformis</i></td><td>Shagbark Hickory</td></tr>
+<tr bgcolor="#ffffcc"><td><a href="">Palmier queue de poisson</a></td><td><i>Caryota mitis</i></td><td>Fishtail palm</td></tr>
+<tr bgcolor="#ffffec"><td><a href="cassia.html">Cassier</a></td><td><i>Cassia fistula</i></td><td>Cassia</td></tr>
+<tr bgcolor="#ffffcc"><td><a href="chataignier.html">Châtaignier</a></td><td><i>Castanea sativa</i></td><td>Spanish chestnut</td></tr>
+<tr bgcolor="#ffffec"><td><a href="filao.html">Filao</a></td><td><i>Casuarina equisetifolia</i></td><td>Australian Pine</td></tr>
+<tr bgcolor="#ffffcc"><td><a href="catalpa.html">Catalpa</a></td><td><i>Catalpa bignonioides</i></td><td>Southern Catalpa</td></tr>
+<tr bgcolor="#ffffec"><td><a href="ceanothus.html">Céanothe arborescent</a></td><td><i>Ceanothus arboreus</i></td><td>Feltleaf ceanothus</td></tr>
+<tr bgcolor="#ffffcc"><td><a href="cedrele.html">Cédrèle, Acajou de Chine</a></td><td><i>Cedrela sinensis, Toona sinensis</i></td><td>Chinese Mahogany, Chinese Toon</td></tr>
+<tr bgcolor="#ffffec"><td><a href="cedre.html">Cèdre de l'Atlas</a></td><td><i>Cedrus Atlantica</i></td><td>Atlas Cedar, Blue Atlas Cedar</td></tr>
+<tr bgcolor="#ffffcc"><td><a href="cedre.html">Cèdre bleu</a></td><td><i>Cedrus Atlantica glauca</i></td><td>Cedar Blue</td></tr>
+<tr bgcolor="#ffffec"><td><a href="cedre.html">Cèdre de Chypre</a></td><td><i>Cedrus brevifolia</i></td><td>Cyprus cedar</td></tr>
+<tr bgcolor="#ffffcc"><td><a href="cedre2.html">Cèdre de l'Himalaya</a></td><td><i>Cedrus deodora</i></td><td>Deodar Cedar</td></tr>
+<tr bgcolor="#ffffec"><td><a href="cedre.html">Cèdre du Liban</a></td><td><i>Cedrus libani</i></td><td>Cedar of Lebanon</td></tr>
+<tr bgcolor="#ffffcc"><td><a href="micocoulier.html">Micocoulier de Provence</a></td><td><i>Celtis australis</i></td><td>European Hackberry, European Nettle Tree, Lote tre</td></tr>
+<tr bgcolor="#ffffec"><td><a href="">Celtis bungeana</a></td><td><i>Celtis bungeana</i></td><td>Bunge’s Hackberry</td></tr>
+<tr bgcolor="#ffffcc"><td><a href="micocoulier.html">Micocoulier du Mississipi</a></td><td><i>Celtis laevigata</i></td><td>Sugar Hackberry</td></tr>
+<tr bgcolor="#ffffec"><td><a href="micocoulier.html">Micocoulier de Virginie</a></td><td><i>Celtis occidentalis</i></td><td>Common Hackberry</td></tr>
+<tr bgcolor="#ffffcc"><td><a href="cephalotaxus.html">If à prunes</a></td><td><i>Cephalotaxus fortunei</i></td><td>Plum yew</td></tr>
+<tr bgcolor="#ffffec"><td><a href="caroubier.html">Caroubier</a></td><td><i>Ceratonia siliqua</i></td><td>Carob Tree</td></tr>
+<tr bgcolor="#ffffcc"><td><a href="katsura.html">Arbre aux feuilles de cercis, Katsura</a></td><td><i>Cercidiphyllum japonicum</i></td><td>Katsura Tree</td></tr>
+<tr bgcolor="#ffffec"><td><a href="judee.html">Arbre de Judée, Arbre caramel</a></td><td><i>Cercis siliquastrum</i></td><td>Redbud, Tree Caramel</td></tr>
+<tr bgcolor="#ffffcc"><td><a href="judee.html">Arbre de Judée à fleurs blanches</a></td><td><i>Cercis siliquastrum alba</i></td><td>Judas tree with white flowers</td></tr>
+<tr bgcolor="#ffffec"><td><a href="cognassier.html">Cognassier de Chine</a></td><td><i>Chaenomeles sinensis</i></td><td>Chinese quince</td></tr>
+<tr bgcolor="#ffffcc"><td><a href="cypresame.html">Faux cyprès de Lawson</a></td><td><i>Chamaecyparis lawsoniana</i></td><td>Port-Orford-cedar, Lawson False Cypress</td></tr>
+<tr bgcolor="#ffffec"><td><a href="cypresame.html">Faux cyprès de Nootka</a></td><td><i>Chamaecyparis nootkatensis</i></td><td>Nootka False Cypress, Alaska Cedar, Yellow Cypress</td></tr>
+<tr bgcolor="#ffffcc"><td><a href="cypresasie.html">Hinoki</a></td><td><i>Chamaecyparis obtusa</i></td><td>Hinoki False Cypress</td></tr>
+<tr bgcolor="#ffffec"><td><a href="neflier.html">Néflier de Cathay</a></td><td><i>Chenomeles cathayensis</i></td><td>Cathay Loquat</td></tr>
+<tr bgcolor="#ffffcc"><td><a href="chimonanthus.html">Chimonanthe précoce</a></td><td><i>Chimonanthus praecox</i></td><td>Wintersweet</td></tr>
+<tr bgcolor="#ffffec"><td><a href="">Chimonanthe du Yunan</a></td><td><i>Chimonanthus yunnanensis</i></td><td>Chimonanthe Yunnan</td></tr>
+<tr bgcolor="#ffffcc"><td><a href="chionanthus.html">Chionanthe</a></td><td><i>Chionanthus retusus</i></td><td>Chionantha</td></tr>
+<tr bgcolor="#ffffec"><td><a href="orangermexique.html">Oranger du Mexique</a></td><td><i>Choisya ternata</i></td><td>Mexican Orange, Mock Orange</td></tr>
+<tr bgcolor="#ffffcc"><td><a href="camphrier.html">Camphrier</a></td><td><i>Cinnamomum camphora</i></td><td>Camphor Tree</td></tr>
+<tr bgcolor="#ffffec"><td><a href="cannelier.html">Cannelier</a></td><td><i>Cinnamomum zeylanicum</i></td><td>Cinnamon</td></tr>
+<tr bgcolor="#ffffcc"><td><a href="bigaradier.html">Bigaradier</a></td><td><i>Citrus aurantium</i></td><td>Sour Orange</td></tr>
+<tr bgcolor="#ffffec"><td><a href="">Citronnier</a></td><td><i>Citrus limon</i></td><td>Lemon</td></tr>
+<tr bgcolor="#ffffcc"><td><a href="oranger.html">Mandarinier</a></td><td><i>Citrus reticulata</i></td><td>Mandarin orange</td></tr>
+<tr bgcolor="#ffffec"><td><a href="oranger.html">Oranger</a></td><td><i>Citrus sinensis</i></td><td>Sweet Orange</td></tr>
+<tr bgcolor="#ffffcc"><td><a href="virgilier.html">Virgilier du fleuve Amour</a></td><td><i>Cladrastis amurensis</i></td><td>Amur River Virgilia</td></tr>
+<tr bgcolor="#ffffec"><td><a href="virgilier.html">Virgilier</a></td><td><i>Cladrastis lutea</i></td><td>American Yellowwood, Virgilia</td></tr>
+<tr bgcolor="#ffffcc"><td><a href="clerodendronbungei.html">Clerodendron de Bunge</a></td><td><i>Clerodendrum bungeii</i></td><td>Bunge Glorybower</td></tr>
+<tr bgcolor="#ffffec"><td><a href="clerodendron.html">Clerodendron</a></td><td><i>Clerodendrum trichotomum</i></td><td>Clerodendron</td></tr>
+<tr bgcolor="#ffffcc"><td><a href="baguenaudier.html">Baguenaudier</a></td><td><i>Colutea arborescens</i></td><td>Bladder senna</td></tr>
+<tr bgcolor="#ffffec"><td><a href="coriaria.html">Corroyère, herbe aux tanneurs, Redoul</a></td><td><i>Coriaria myrtifolia</i></td><td>Coriaria myrtifolia</td></tr>
+<tr bgcolor="#ffffcc"><td><a href="cornouiller.html">Cornouiller blanc</a></td><td><i>Cornus alba</i></td><td>Red-Barked Dogwood</td></tr>
+<tr bgcolor="#ffffec"><td><a href="cornouiller.html">Cornouiller du Canada</a></td><td><i>Cornus canadensis</i></td><td>Canadian Dogwood</td></tr>
+<tr bgcolor="#ffffcc"><td><a href="cornouiller.html">Cornouiller de l'Himalaya</a></td><td><i>Cornus capitata</i></td><td>Himalayan Dogwood</td></tr>
+<tr bgcolor="#ffffec"><td><a href="cornouiller.html">Cornouiller des pagodes</a></td><td><i>Cornus controversa</i></td><td>Pagoda dogwood</td></tr>
+<tr bgcolor="#ffffcc"><td><a href="cornouiller.html">Cornouiller des pagodes panaché</a></td><td><i>Cornus controversa variegata</i></td><td>Pagoda dogwood variegated</td></tr>
+<tr bgcolor="#ffffec"><td><a href="cornouiller.html">Cornouiller à fleurs</a></td><td><i>Cornus florida</i></td><td>Flowering Dogwood</td></tr>
+<tr bgcolor="#ffffcc"><td><a href="cornouiller.html">Cornouiller à fleurs rouges</a></td><td><i>Cornus florida rubra</i></td><td>Red Flowering Dogwood</td></tr>
+<tr bgcolor="#ffffec"><td><a href="cornouiller.html">Cornouiller du Japon</a></td><td><i>Cornus kousa</i></td><td>Kousa Dogwood</td></tr>
+<tr bgcolor="#ffffcc"><td><a href="">Cornouiller à fleurs de Chine</a></td><td><i>Cornus kousa chinensis</i></td><td>China Dogwood</td></tr>
+<tr bgcolor="#ffffec"><td><a href="cornouiller.html">Cornouiller mâle</a></td><td><i>Cornus mas</i></td><td>Corneliancherry Dogwood</td></tr>
+<tr bgcolor="#ffffcc"><td><a href="cornouiller.html">Cornouiller de Nuttall</a></td><td><i>Cornus nuttallii</i></td><td>Pacific dogwood</td></tr>
+<tr bgcolor="#ffffec"><td><a href="cornouiller.html">Cornouiller sanguin</a></td><td><i>Cornus sanguinea</i></td><td>Dogwood</td></tr>
+<tr bgcolor="#ffffcc"><td><a href="">Cornouiller stolonifère</a></td><td><i>Cornus stolonifera</i></td><td>Red-Osier Dogwood</td></tr>
+<tr bgcolor="#ffffec"><td><a href="noisetier.html">Noisetier</a></td><td><i>Corylus avellana</i></td><td>Hazel,  Filbert</td></tr>
+<tr bgcolor="#ffffcc"><td><a href="byzance.html">Noisetier de Byzance</a></td><td><i>Corylus colurna</i></td><td>Turkish Filbert, Hazel</td></tr>
+<tr bgcolor="#ffffec"><td><a href="cotinus.html">Fustet d'Amérique</a></td><td><i>Cotinus americanus, Cotinus obovatus</i></td><td>American Smoketree, Chittamwood</td></tr>
+<tr bgcolor="#ffffcc"><td><a href="cotinus.html">Arbre à perruques, Fustet</a></td><td><i>Cotinus coggygria, Rhus cotinus</i></td><td>Common Smoke Tree</td></tr>
+<tr bgcolor="#ffffec"><td><a href="cotoneaster.html">Cotonéaster à feuilles aigües</a></td><td><i>Cotoneaster acutifolius</i></td><td>Acute-leaved Cotoneaster</td></tr>
+<tr bgcolor="#ffffcc"><td><a href="cotoneaster.html">Cotonéaster affinis</a></td><td><i>Cotoneaster affinis</i></td><td>Cotoneaster affinis</td></tr>
+<tr bgcolor="#ffffec"><td><a href="aubepine.html">Aubépine de Virginie, ergot de coq</a></td><td><i>Crataegus crusgalli</i></td><td>Cockspur Hawthorn</td></tr>
+<tr bgcolor="#ffffcc"><td><a href="aubepine.html">Aubépine à deux styles</a></td><td><i>Crataegus laevigata</i></td><td>English Hawthorn</td></tr>
+<tr bgcolor="#ffffec"><td><a href="aubepine.html">Aubépine monogyne, Épine blanche</a></td><td><i>Crataegus monogyna</i></td><td>Hawthorn</td></tr>
+<tr bgcolor="#ffffcc"><td><a href="cryptomeria.html">Cryptomeria de Formose</a></td><td><i>Cryptomeria formosana</i></td><td>Taiwan Cryptomeria</td></tr>
+<tr bgcolor="#ffffec"><td><a href="cryptomeria.html">Cèdre du Japon</a></td><td><i>Cryptomeria japonica</i></td><td>Japanese Cryptomeria, Japanese Cedar</td></tr>
+<tr bgcolor="#ffffcc"><td><a href="cunninghamia.html">Sapin de Chine</a></td><td><i>Cunninghamia lanceolata</i></td><td>China Fir</td></tr>
+<tr bgcolor="#ffffec"><td><a href="cypresame.html">Cyprès de Leyland</a></td><td><i>Cupressocyparis leylandii</i></td><td>Leyland Cypress</td></tr>
+<tr bgcolor="#ffffcc"><td><a href="cypresame.html">Cyprès de l'Arizona</a></td><td><i>Cupressus arizonica</i></td><td>Arizona Cypress</td></tr>
+<tr bgcolor="#ffffec"><td><a href="cypresame.html">Cyprès de Lambert</a></td><td><i>Cupressus macrocarpa</i></td><td>Monterey cypress</td></tr>
+<tr bgcolor="#ffffcc"><td><a href="cypresame.html">Cyprès de Monterey</a></td><td><i>Cupressus semperivrens macrocarpa</i></td><td>Monterey Cypress</td></tr>
+<tr bgcolor="#ffffec"><td><a href="cypres.html">Cyprès d'Italie</a></td><td><i>Cupressus sempervirens</i></td><td>Cypress of Italy</td></tr>
+<tr bgcolor="#ffffcc"><td><a href="cognassier.html">Cognassier</a></td><td><i>Cydonia oblonga</i></td><td>Quince</td></tr>
+<tr bgcolor="#ffffec"><td><a href="cytise.html">Cytise de Battandier, Genêt du Maroc</a></td><td><i>Cytisus battandieri</i></td><td>Battandier Laburnum</td></tr>
+<tr bgcolor="#ffffcc"><td><a href="davidia.html">Arbre aux pochettes d'argent</a></td><td><i>Davidia involucrata</i></td><td>Dove tree</td></tr>
+<tr bgcolor="#ffffec"><td><a href="deutzie.html">Deutzie</a></td><td><i>Deutzia gracilis</i></td><td>Deutzia</td></tr>
+<tr bgcolor="#ffffcc"><td><a href="">Deutzie</a></td><td><i>Deutzia scabra</i></td><td>&nbsp;</td></tr>
+<tr bgcolor="#ffffec"><td><a href="longanier.html">Longanier</a></td><td><i>Dimocarpus longan</i></td><td>Longan</td></tr>
+<tr bgcolor="#ffffcc"><td><a href="ebenier.html">Ébénier</a></td><td><i>Diospyros ebenum</i></td><td>Ebony</td></tr>
+<tr bgcolor="#ffffec"><td><a href="plaqueminier.html">Plaqueminier du Japon</a></td><td><i>Diospyros kaki</i></td><td>Japanese Persimmon</td></tr>
+<tr bgcolor="#ffffcc"><td><a href="plaqueminier.html">Plaqueminier d'Europe</a></td><td><i>Diospyros lotus</i></td><td>Persimmon Europe</td></tr>
+<tr bgcolor="#ffffec"><td><a href="plaqueminier.html">Plaqueminier de Virginie</a></td><td><i>Diospyros virginiana</i></td><td>Common Persimmon</td></tr>
+<tr bgcolor="#ffffcc"><td><a href="">Distyle à grappes</a></td><td><i>Distylium racemosum</i></td><td>Evergreen Winter-hazel</td></tr>
+<tr bgcolor="#ffffec"><td><a href="ehretia.html">Ehrétia</a></td><td><i>Ehretia dicksonii</i></td><td>Ehretia</td></tr>
+<tr bgcolor="#ffffcc"><td><a href="boheme.html">Olivier de Bohême, Arbre d'argent</a></td><td><i>Elaeagnus angustifolia</i></td><td>Russian-olive</td></tr>
+<tr bgcolor="#ffffec"><td><a href="elaeagnus.html">Goumi du Japon</a></td><td><i>Elaeagnus multiflora var. hortensis</i></td><td>Elaeagnus multiflora</td></tr>
+<tr bgcolor="#ffffcc"><td><a href="elaeagnus.html">Olivier d'automne</a></td><td><i>Elaeagnus umbellata</i></td><td>Autumn olive</td></tr>
+<tr bgcolor="#ffffec"><td><a href="neflierjapon.html">Bibacier, Néflier du Japon</a></td><td><i>Eriobotrya japonica</i></td><td>Japanese Loquat</td></tr>
+<tr bgcolor="#ffffcc"><td><a href="erythrina.html">Érythrine caffre, Érythrine de Kafrarie</a></td><td><i>Erythrina caffra</i></td><td>Kaffir Coral Tree, Coral Tree</td></tr>
+<tr bgcolor="#ffffec"><td><a href="escallonia.html">Escallonia</a></td><td><i>Escallonia</i></td><td>Redclaws</td></tr>
+<tr bgcolor="#ffffcc"><td><a href="eucalyptus.html">Eucalyptus</a></td><td><i>Eucalyptus globulus, gunnii, niphophila, regnans</i></td><td>Bluegum Eucalyptus</td></tr>
+<tr bgcolor="#ffffec"><td><a href="eucommia.html">Eucommia</a></td><td><i>Eucommia ulmoides</i></td><td>Eucommia</td></tr>
+<tr bgcolor="#ffffcc"><td><a href="fusain.html">Fusain d'Europe</a></td><td><i>Euonymus europaeus</i></td><td>Spindle tree</td></tr>
+<tr bgcolor="#ffffec"><td><a href="euodia.html">Euodia</a></td><td><i>Evodia daniellii</i></td><td>Korean Evodia</td></tr>
+<tr bgcolor="#ffffcc"><td><a href="hetre.html">Hêtre d'Orient</a></td><td><i>Fagus orientalis</i></td><td>Oriental Beech</td></tr>
+<tr bgcolor="#ffffec"><td><a href="hetre.html">Hêtre</a></td><td><i>Fagus sylvatica</i></td><td>Beech</td></tr>
+<tr bgcolor="#ffffcc"><td><a href="hetre2.html">Hêtre hétérophile</a></td><td><i>Fagus sylvatica asplenifolia</i></td><td>Heterophile Beech</td></tr>
+<tr bgcolor="#ffffec"><td><a href="hetre.html">Hêtre pleureur</a></td><td><i>Fagus sylvatica pendula</i></td><td>Weeping Beech</td></tr>
+<tr bgcolor="#ffffcc"><td><a href="hetre.html">Hêtre pourpre</a></td><td><i>Fagus sylvatica purpurea</i></td><td>Copper Beech</td></tr>
+<tr bgcolor="#ffffec"><td><a href="hetre.html">Hêtre tortueux, Fau de Verzy</a></td><td><i>Fagus sylvatica tortuosa</i></td><td>Tortuous Beech</td></tr>
+<tr bgcolor="#ffffcc"><td><a href="hetre.html">Hêtre doré de Spath</a></td><td><i>Fagus sylvatica Zlatya</i></td><td>Beech golden Spath</td></tr>
+<tr bgcolor="#ffffec"><td><a href="aralia.html">Aralia japonaise</a></td><td><i>Fatsia japonica</i></td><td>Japanese Aralia</td></tr>
+<tr bgcolor="#ffffcc"><td><a href="figuier.html">Banyan</a></td><td><i>Ficus benghalensis</i></td><td>Banyan Fig</td></tr>
+<tr bgcolor="#ffffec"><td><a href="figuier.html">Figuier pleureur</a></td><td><i>Ficus benjamina</i></td><td>Benjamin tree, Java fig, Java tree</td></tr>
+<tr bgcolor="#ffffcc"><td><a href="figuier.html">Figuier</a></td><td><i>Ficus carica</i></td><td>Fig tree</td></tr>
+<tr bgcolor="#ffffec"><td><a href="figuier.html">Caoutchouc</a></td><td><i>Ficus elastica</i></td><td>Rubber fig</td></tr>
+<tr bgcolor="#ffffcc"><td><a href="ficuslyrata.html">Figuier lyre</a></td><td><i>Ficus lyrata</i></td><td>Fiddle-leaf Fig</td></tr>
+<tr bgcolor="#ffffec"><td><a href="figuier2.html">Pippal, figuier indien</a></td><td><i>Ficus religiosa</i></td><td>Sacred Fig</td></tr>
+<tr bgcolor="#ffffcc"><td><a href="forsythia.html">Forsythia hybride</a></td><td><i>Forsythia x intermedia</i></td><td>Border forsythia</td></tr>
+<tr bgcolor="#ffffec"><td><a href="bourdaine.html">Bourdaine</a></td><td><i>Frangula alnus</i></td><td>Buckthorn</td></tr>
+<tr bgcolor="#ffffcc"><td><a href="frene.html">Frêne blanc</a></td><td><i>Fraxinus americana</i></td><td>White Ash</td></tr>
+<tr bgcolor="#ffffec"><td><a href="frene.html">Frêne à feuilles étroites</a></td><td><i>Fraxinus angustifolia</i></td><td>Narrow-leaved ash</td></tr>
+<tr bgcolor="#ffffcc"><td><a href="frene.html">Frêne élevé</a></td><td><i>Fraxinus excelsior</i></td><td>European Ash</td></tr>
+<tr bgcolor="#ffffec"><td><a href="frene.html">Frêne doré</a></td><td><i>Fraxinus excelsior 'Aurea'</i></td><td>Golden Ash</td></tr>
+<tr bgcolor="#ffffcc"><td><a href="frene3.html">Frêne monophylle</a></td><td><i>Fraxinus excelsior Diversifolia</i></td><td>Ash monophyllous</td></tr>
+<tr bgcolor="#ffffec"><td><a href="frene.html">Frêne à fleurs, Orne</a></td><td><i>Fraxinus ornus</i></td><td>Flowering Ash</td></tr>
+<tr bgcolor="#ffffcc"><td><a href="frene3.html">Frêne rouge</a></td><td><i>Fraxinus pennsylvanica</i></td><td>Green Ash</td></tr>
+<tr bgcolor="#ffffec"><td><a href="frene3.html">Frêne rouge lancéolé</a></td><td><i>Fraxinus pennsylvanica lanceolata</i></td><td>Red Ash lanceolate</td></tr>
+<tr bgcolor="#ffffcc"><td><a href="frene3.html">Frêne rouge pubescent</a></td><td><i>Fraxinus pennsylvanica pubescens</i></td><td>Ash red hairy</td></tr>
+<tr bgcolor="#ffffec"><td><a href="frene3.html">Frêne velours</a></td><td><i>Fraxinus pennsylvanica velutina</i></td><td>Velvet ash</td></tr>
+<tr bgcolor="#ffffcc"><td><a href="frene.html">Frêne de l'Arizona</a></td><td><i>Fraxinus velutina</i></td><td>Arizona Ash, Velvet Ash</td></tr>
+<tr bgcolor="#ffffec"><td><a href="garrya.html">Garrya elliptique</a></td><td><i>Garrya elliptica</i></td><td>Coast silk-tassel</td></tr>
+<tr bgcolor="#ffffcc"><td><a href="ginkgo.html">Ginkgo, Arbre aux quarante écus</a></td><td><i>Ginkgo biloba</i></td><td>Ginkgo, Maidenhair Tree</td></tr>
+<tr bgcolor="#ffffec"><td><a href="fevier.html">Févier du Japon</a></td><td><i>Gleditsia japonica</i></td><td>Japan Locust</td></tr>
+<tr bgcolor="#ffffcc"><td><a href="fevier.html">Févier</a></td><td><i>Gleditsia triacanthos</i></td><td>Honey Locust</td></tr>
+<tr bgcolor="#ffffec"><td><a href="fevier.html">Févier doré</a></td><td><i>Gleditsia triacanthos Sunburst</i></td><td>Golden Honey Locust</td></tr>
+<tr bgcolor="#ffffcc"><td><a href="">Glyptostrobus pensilis</a></td><td><i>Glyptostrobus pensilis</i></td><td>Chinese Swamp Cypress</td></tr>
+<tr bgcolor="#ffffec"><td><a href="grevillier.html">Grévillier, Chêne argenté d'Australie</a></td><td><i>Grevillea robusta</i></td><td>Silk Oak</td></tr>
+<tr bgcolor="#ffffcc"><td><a href="chicot.html">Chicot du Canada</a></td><td><i>Gymnocladus dioicus</i></td><td>Kentucky Coffee Tree</td></tr>
+<tr bgcolor="#ffffec"><td><a href="hakea.html">Hakea</a></td><td><i>Hakea laurina</i></td><td>Pincushion Bush</td></tr>
+<tr bgcolor="#ffffcc"><td><a href="halesia.html">Halesia carolina</a></td><td><i>Halesia carolina</i></td><td>Carolina Silverbell</td></tr>
+<tr bgcolor="#ffffec"><td><a href="halesia.html">Arbre aux cloches d'argent</a></td><td><i>Halesia monticola</i></td><td>Silverbell</td></tr>
+<tr bgcolor="#ffffcc"><td><a href="halesia.html">Halésia</a></td><td><i>Halesia tetraptera</i></td><td>Four-winged Silverbell</td></tr>
+<tr bgcolor="#ffffec"><td><a href="hamamelis.html">Hamamélis de Chine</a></td><td><i>Hamamelis mollis</i></td><td>China hamamelis</td></tr>
+<tr bgcolor="#ffffcc"><td><a href="hamamelis.html">Hamamélis de Virginie</a></td><td><i>Hamamelis virginiana</i></td><td>Witch Hazel</td></tr>
+<tr bgcolor="#ffffec"><td><a href="althea.html">Althéa</a></td><td><i>Hibiscus syriacus</i></td><td>Rose of Sharon, Shrub Althea</td></tr>
+<tr bgcolor="#ffffcc"><td><a href="argousier.html">Argousier</a></td><td><i>Hippophae rhamnoides</i></td><td>Sea Buckthorn</td></tr>
+<tr bgcolor="#ffffec"><td><a href="hydrangea.html">Hortensia</a></td><td><i>Hydrangea macrophylla</i></td><td>Hydrangea</td></tr>
+<tr bgcolor="#ffffcc"><td><a href="idesia.html">Idésia</a></td><td><i>Idesia polycarpa</i></td><td>Ligiri tree</td></tr>
+<tr bgcolor="#ffffec"><td><a href="houx.html">Houx</a></td><td><i>Ilex aquifolium</i></td><td>Common holly</td></tr>
+<tr bgcolor="#ffffcc"><td><a href="houx.html">Houx d'Amérique</a></td><td><i>Ilex opaca</i></td><td>American Holly</td></tr>
+<tr bgcolor="#ffffec"><td><a href="jacaranda.html">Jacaranda</a></td><td><i>Jacaranda ovalifolia</i></td><td>Jacaranda</td></tr>
+<tr bgcolor="#ffffcc"><td><a href="">Noyer de Cathay</a></td><td><i>Juglans cathayensis</i></td><td>Cathay Walnut</td></tr>
+<tr bgcolor="#ffffec"><td><a href="noyerame.html">Noyer noir</a></td><td><i>Juglans nigra</i></td><td>Black Walnut</td></tr>
+<tr bgcolor="#ffffcc"><td><a href="noyer.html">Noyer</a></td><td><i>Juglans regia</i></td><td>Common walnut</td></tr>
+<tr bgcolor="#ffffec"><td><a href="genevrier.html">Genévrier</a></td><td><i>Juniperus communis</i></td><td>Common Juniper</td></tr>
+<tr bgcolor="#ffffcc"><td><a href="genevrier.html">Genévrier d'Irlande</a></td><td><i>Juniperus communis Hibernica</i></td><td>Ireland Juniper</td></tr>
+<tr bgcolor="#ffffec"><td><a href="genevrier.html">Genévrier de Syrie</a></td><td><i>Juniperus drupacea</i></td><td>Syrian Juniper</td></tr>
+<tr bgcolor="#ffffcc"><td><a href="genevrier.html">Genévrier de l'Himalaya</a></td><td><i>Juniperus recurva</i></td><td>Himalayan Juniper</td></tr>
+<tr bgcolor="#ffffec"><td><a href="genevrier.html">Genévrier de Virginie</a></td><td><i>Juniperus virginiana</i></td><td>Eastern Red Cedar</td></tr>
+<tr bgcolor="#ffffcc"><td><a href="kalopanax.html">Kalopanax</a></td><td><i>Kalopanax septembolus</i></td><td>Kalopanax</td></tr>
+<tr bgcolor="#ffffec"><td><a href="">Corète du Japon</a></td><td><i>Kerria japonica</i></td><td>Japanese Kerria</td></tr>
+<tr bgcolor="#ffffcc"><td><a href="acajou.html">Acajou africain</a></td><td><i>Khaya</i></td><td>African Mahogany</td></tr>
+<tr bgcolor="#ffffec"><td><a href="savonnier.html">Savonnier, bois de Panama</a></td><td><i>Koelreuteria paniculata</i></td><td>Panicled Goldenrain Tree, Varnish Tree</td></tr>
+<tr bgcolor="#ffffcc"><td><a href="kolkwitzia.html">Kolkwitzia</a></td><td><i>Kolkwitzia amabilis</i></td><td>Kolkwitzia</td></tr>
+<tr bgcolor="#ffffec"><td><a href="cytise.html">Cytise</a></td><td><i>Laburnum vulgare</i></td><td>Laburnum</td></tr>
+<tr bgcolor="#ffffcc"><td><a href="lagerstroemia.html">Lilas des Indes, Lagerstrémie</a></td><td><i>Lagerstroemia indica</i></td><td>Crape myrtle</td></tr>
+<tr bgcolor="#ffffec"><td><a href="meleze.html">Mélèze d'Europe</a></td><td><i>Larix decidua</i></td><td>European Larch</td></tr>
+<tr bgcolor="#ffffcc"><td><a href="meleze.html">Mélèze du Japon</a></td><td><i>Larix kaempferi</i></td><td>Japanese Larch</td></tr>
+<tr bgcolor="#ffffec"><td><a href="meleze.html">Mélèze d'Amérique</a></td><td><i>Larix occidentalis</i></td><td>Western larch</td></tr>
+<tr bgcolor="#ffffcc"><td><a href="latanier.html">Latanier</a></td><td><i>Latania lontaroides</i></td><td>&nbsp;</td></tr>
+<tr bgcolor="#ffffec"><td><a href="laurier.html">Laurier-sauce, laurier noble</a></td><td><i>Laurus nobilis</i></td><td>Bay Laurel</td></tr>
+<tr bgcolor="#ffffcc"><td><a href="libocedre.html">Libocèdre</a></td><td><i>Libocedrus decurrens</i></td><td>California Incense-cedar</td></tr>
+<tr bgcolor="#ffffec"><td><a href="libocedre.html">Libocèdre doré</a></td><td><i>Libocedrus decurrens aurea</i></td><td>Golden California Incense-cedar</td></tr>
+<tr bgcolor="#ffffcc"><td><a href="troene.html">Troène de Chine</a></td><td><i>Ligustrum chenaultii</i></td><td>Chinese privet</td></tr>
+<tr bgcolor="#ffffec"><td><a href="troene.html">Troène</a></td><td><i>Ligustrum lucidum</i></td><td>Privet</td></tr>
+<tr bgcolor="#ffffcc"><td><a href="troene.html">Troène à feuilles ovales</a></td><td><i>Ligustrum ovalifolium</i></td><td>California Privet</td></tr>
+<tr bgcolor="#ffffec"><td><a href="troene.html">Troène commun</a></td><td><i>Ligustrum vulgare</i></td><td>Privet</td></tr>
+<tr bgcolor="#ffffcc"><td><a href="liquidambar.html">Liquidambar de Formose</a></td><td><i>Liquidambar formosana</i></td><td>Formosa Liquidambar</td></tr>
+<tr bgcolor="#ffffec"><td><a href="liquidambar.html">Copalme d'Orient</a></td><td><i>Liquidambar orientalis</i></td><td>Oriental Sweetgum</td></tr>
+<tr bgcolor="#ffffcc"><td><a href="liquidambar.html">Liquidambar, Copalme d'Amérique</a></td><td><i>Liquidambar styraciflua</i></td><td>American Sweetgum</td></tr>
+<tr bgcolor="#ffffec"><td><a href="tulipier2.html">Tulipier de Chine</a></td><td><i>Liriodendron chinense</i></td><td>Chinese Tulip Tree</td></tr>
+<tr bgcolor="#ffffcc"><td><a href="tulipier.html">Tulipier de Virginie</a></td><td><i>Liriodendron tulipifera</i></td><td>Tulip Tree, Tulip Magnolia, Tulip Poplar, Yellow P</td></tr>
+<tr bgcolor="#ffffec"><td><a href="">Litchi</a></td><td><i>Litchi sinensis</i></td><td>Litchi</td></tr>
+<tr bgcolor="#ffffcc"><td><a href="lonicera.html">Chèvrefeuille</a></td><td><i>Lonicera caprifolium</i></td><td>Honeysuckle</td></tr>
+<tr bgcolor="#ffffec"><td><a href="lonicera.html">Chèvrefeuille de Henry</a></td><td><i>Lonicera Henryi</i></td><td>Henry's Honeysuckle</td></tr>
+<tr bgcolor="#ffffcc"><td><a href="lonicera.html">Chèvrefeuille du Japon</a></td><td><i>Lonicera japonica</i></td><td>Japanese Honeysuckle</td></tr>
+<tr bgcolor="#ffffec"><td><a href="lonicera.html">Chèvrefeuille arbustif</a></td><td><i>Lonicera nitida</i></td><td>Box Honeysuckle</td></tr>
+<tr bgcolor="#ffffcc"><td><a href="lonicera.html">Chèvrefeuille de Russie</a></td><td><i>Lonicera tatarica</i></td><td>Tartarian Honeysuckle</td></tr>
+<tr bgcolor="#ffffec"><td><a href="">Camérisier à balais, Chèvrefeuille des haies</a></td><td><i>Lonicera xylosteum</i></td><td>Fly Honeysuckle</td></tr>
+<tr bgcolor="#ffffcc"><td><a href="osages.html">Oranger des Osages, Bois d'arc</a></td><td><i>Maclura pomifera</i></td><td>Osage Orange, Hedge Apple</td></tr>
+<tr bgcolor="#ffffec"><td><a href="magnolia.html">Magnolia aux concombres</a></td><td><i>Magnolia acuminata</i></td><td>Cucumber Tree</td></tr>
+<tr bgcolor="#ffffcc"><td><a href="magnolia.html">Magnolia à grandes fleurs</a></td><td><i>Magnolia grandiflora</i></td><td>Southern Magnolia</td></tr>
+<tr bgcolor="#ffffec"><td><a href="magnolia.html">Magnolia à grandes feuilles</a></td><td><i>Magnolia macrophylla</i></td><td>Bigleaf Magnolia</td></tr>
+<tr bgcolor="#ffffcc"><td><a href="magnolia1.html">Magnolia de Soulanges</a></td><td><i>Magnolia soulangeana</i></td><td>Saucer Magnolia</td></tr>
+<tr bgcolor="#ffffec"><td><a href="magnolia3.html">Magnolia parasol</a></td><td><i>Magnolia tripetala</i></td><td>Umbrella magnolia</td></tr>
+<tr bgcolor="#ffffcc"><td><a href="mahonia.html">Mahonia à feuilles de houx</a></td><td><i>Mahonia aquifolium</i></td><td>Tall Oregon Grape</td></tr>
+<tr bgcolor="#ffffec"><td><a href="pommier.html">Pommier japonais</a></td><td><i>Malus floribunda</i></td><td>Japanese Flowering Crabapple</td></tr>
+<tr bgcolor="#ffffcc"><td><a href="pommier.html">Pommier</a></td><td><i>Malus pumila, Malus domestica</i></td><td>Apple tree</td></tr>
+<tr bgcolor="#ffffec"><td><a href="pommier.html">Pommier sauvage</a></td><td><i>Malus sylvestris</i></td><td>European Wild Apple</td></tr>
+<tr bgcolor="#ffffcc"><td><a href="manguier.html">Manguier</a></td><td><i>Mangifera indica</i></td><td>Common Mango</td></tr>
+<tr bgcolor="#ffffec"><td><a href="">Sapotillier</a></td><td><i>Manilkara sapota, Achras sapota</i></td><td>Sapodilla</td></tr>
+<tr bgcolor="#ffffcc"><td><a href="margousier.html">Acacie d'Égypte, Lilas des Indes, Margousier</a></td><td><i>Melia azedarach</i></td><td>Chinaberry</td></tr>
+<tr bgcolor="#ffffec"><td><a href="neflier.html">Néflier</a></td><td><i>Mespilus germanica</i></td><td>Common Medlar</td></tr>
+<tr bgcolor="#ffffcc"><td><a href="metasequoia.html">Métaséquoia</a></td><td><i>Metasequoia glytostroboides</i></td><td>Dawn Redwood</td></tr>
+<tr bgcolor="#ffffec"><td><a href="murier.html">Mûrier blanc</a></td><td><i>Morus alba</i></td><td>White Mulberry</td></tr>
+<tr bgcolor="#ffffcc"><td><a href="murier.html">Mûrier noir</a></td><td><i>Morus nigra</i></td><td>Black Mulberry</td></tr>
+<tr bgcolor="#ffffec"><td><a href="murier.html">Mûrier à feuilles de platane, Mûrier kagayama</a></td><td><i>Morus platanifolia</i></td><td>Kagayama Mulberry</td></tr>
+<tr bgcolor="#ffffcc"><td><a href="murier.html">Mûrier rouge</a></td><td><i>Morus rubra</i></td><td>Red Mulberry</td></tr>
+<tr bgcolor="#ffffec"><td><a href="bananier.html">Bananier</a></td><td><i>Musa sapientum</i></td><td>Banana tree</td></tr>
+<tr bgcolor="#ffffcc"><td><a href="myrtus.html">Myrte luma</a></td><td><i>Myrtus luma</i></td><td>Chilean Myrtle</td></tr>
+<tr bgcolor="#ffffec"><td><a href="laurierrose.html">Laurier rose</a></td><td><i>Nerium oleander</i></td><td>Oleander</td></tr>
+<tr bgcolor="#ffffcc"><td><a href="laurierrose.html">Laurier rose splendum gigantum</a></td><td><i>Nerium oleander splendum gigantum</i></td><td>Oleander splendum gigantum</td></tr>
+<tr bgcolor="#ffffec"><td><a href="hetre.html">Hêtre de l'Antarctique</a></td><td><i>Nothofagus antarctica</i></td><td>Antarctic Beech</td></tr>
+<tr bgcolor="#ffffcc"><td><a href="hetre.html">Hêtre du Chili</a></td><td><i>Nothofagus obliqua</i></td><td>&nbsp;</td></tr>
+<tr bgcolor="#ffffec"><td><a href="nyssa.html">Nyssa sylvatica</a></td><td><i>Nyssa sylvatica</i></td><td>Black Tupelo, Black Gum, Sour Gum, Pepperidge</td></tr>
+<tr bgcolor="#ffffcc"><td><a href="olivier.html">Olivier</a></td><td><i>Olea europea</i></td><td>Olive tree</td></tr>
+<tr bgcolor="#ffffec"><td><a href="mouillefer.html">Osmanthe, Faux-Houx</a></td><td><i>Osmanthus aquifolium</i></td><td>Holly Osmanthus</td></tr>
+<tr bgcolor="#ffffcc"><td><a href="mouillefer.html">Osmanthe hétérophile</a></td><td><i>Osmanthus heterophyllus</i></td><td>Holly Osmanthus</td></tr>
+<tr bgcolor="#ffffec"><td><a href="charme.html">Charme houblon, Ostrier</a></td><td><i>Ostrya carpinifolia</i></td><td>European Hop-Hornbeam</td></tr>
+<tr bgcolor="#ffffcc"><td><a href="parrotie.html">Parrotie, Bois de fer</a></td><td><i>Parrotia persica</i></td><td>Persian Ironwood</td></tr>
+<tr bgcolor="#ffffec"><td><a href="parrotiopsis.html">Parrotiopsis jacquemontiana</a></td><td><i>Parrotiopsis jacquemontiana</i></td><td>Parrotiopsis jacquemontana</td></tr>
+<tr bgcolor="#ffffcc"><td><a href="paulownia.html">Paulownia</a></td><td><i>Paulownia tomentosa</i></td><td>Royal Paulownia, Empress Tree, Princess Tree</td></tr>
+<tr bgcolor="#ffffec"><td><a href="">Avocatier</a></td><td><i>Persea gratissima</i></td><td>Avocado</td></tr>
+<tr bgcolor="#ffffcc"><td><a href="phellodendron.html">Phellodendron ou arbre au liège de l'Amour</a></td><td><i>Phellodendron amurense</i></td><td>Amur Corktree</td></tr>
+<tr bgcolor="#ffffec"><td><a href="seringat.html">Seringa</a></td><td><i>Philadelphus coronarius</i></td><td>Mock Orange</td></tr>
+<tr bgcolor="#ffffcc"><td><a href="filaire.html">Filaire à feuilles étroites</a></td><td><i>Phillyrea angustifolia</i></td><td>Narrow leaved phillyrea</td></tr>
+<tr bgcolor="#ffffec"><td><a href="palmier.html">Palmier</a></td><td><i>Phoenix canariensis</i></td><td>Canary Island Palm</td></tr>
+<tr bgcolor="#ffffcc"><td><a href="photinia.html">Photinia</a></td><td><i>Photinia x fraseri</i></td><td>Photinia</td></tr>
+<tr bgcolor="#ffffec"><td><a href="physocarpe.html">Physocarpe à feuilles d'obier, Bois à sept écorces</a></td><td><i>Physocarpus opulifolius</i></td><td>Common ninebark</td></tr>
+<tr bgcolor="#ffffcc"><td><a href="belombra.html">Bélombra</a></td><td><i>Phytolacca diodica</i></td><td>Belombre</td></tr>
+<tr bgcolor="#ffffec"><td><a href="epicea.html">Épicéa</a></td><td><i>Picea abies</i></td><td>Norway Spruce</td></tr>
+<tr bgcolor="#ffffcc"><td><a href="sapin.html">Sapin de Lijiang</a></td><td><i>Picea balfouriana</i></td><td>Lijiang Fir</td></tr>
+<tr bgcolor="#ffffec"><td><a href="epicea.html">Épicéa de Brewer</a></td><td><i>Picea breweriana</i></td><td>Brewer spruce</td></tr>
+<tr bgcolor="#ffffcc"><td><a href="epicea.html">Sapinette d'Orient</a></td><td><i>Picea glauca</i></td><td>White Spruce</td></tr>
+<tr bgcolor="#ffffec"><td><a href="epicea.html">Épicéa de Liziang</a></td><td><i>Picea liziang</i></td><td>Spice Liziang</td></tr>
+<tr bgcolor="#ffffcc"><td><a href="epicea.html">Épicéa de Serbie</a></td><td><i>Picea omorika</i></td><td>Serbian Spruce</td></tr>
+<tr bgcolor="#ffffec"><td><a href="epicea.html">Épicéa d'Orient</a></td><td><i>Picea orientalis</i></td><td>Oriental Spruce</td></tr>
+<tr bgcolor="#ffffcc"><td><a href="epicea.html">Sapin bleu du Colorado</a></td><td><i>Picea pungens forma glauca</i></td><td>Colorado Spruce</td></tr>
+<tr bgcolor="#ffffec"><td><a href="epicea.html">Épicéa de l'Himalaya</a></td><td><i>Picea smithiana</i></td><td>Morinda Spruce</td></tr>
+<tr bgcolor="#ffffcc"><td><a href="epicea.html">Épicéa de Wilson</a></td><td><i>Picea wilsonii</i></td><td>Wilson Spruce</td></tr>
+<tr bgcolor="#ffffec"><td><a href="andromede.html">Andromède</a></td><td><i>Pieris japonica</i></td><td>Andromeda</td></tr>
+<tr bgcolor="#ffffcc"><td><a href="andromede.html">Andromède panachée</a></td><td><i>Pieris japonica variegata</i></td><td>Variegated Andromeda</td></tr>
+<tr bgcolor="#ffffec"><td><a href="pinaut.html">Pin Napoléon</a></td><td><i>Pinus bungeana</i></td><td>Lace-Bark Pine</td></tr>
+<tr bgcolor="#ffffcc"><td><a href="">Pin Cembro, Arole</a></td><td><i>Pinus cembra</i></td><td>Swiss Stone Pine, Arolla Pine</td></tr>
+<tr bgcolor="#ffffec"><td><a href="">Pin rouge du Japon</a></td><td><i>Pinus densiflora</i></td><td>Japanese Red Pine</td></tr>
+<tr bgcolor="#ffffcc"><td><a href="pinaut.html">Pin de l'Himalaya</a></td><td><i>Pinus excelsa</i></td><td>Himalayan Pine</td></tr>
+<tr bgcolor="#ffffec"><td><a href="pin.html">Pin d'Alep, Pin blanc</a></td><td><i>Pinus halepensis</i></td><td>Aleppo Pine</td></tr>
+<tr bgcolor="#ffffcc"><td><a href="pin.html">Pin laricio de Corse</a></td><td><i>Pinus laricio</i></td><td>Corsican pine</td></tr>
+<tr bgcolor="#ffffec"><td><a href="pin.html">Pin de montagne</a></td><td><i>Pinus montana, Pinus mugo</i></td><td>Swiss Mountain Pine, Mugo Pine</td></tr>
+<tr bgcolor="#ffffcc"><td><a href="pinauteur.html">Pin noir d'Autriche</a></td><td><i>Pinus nigra</i></td><td>Austrian Pine</td></tr>
+<tr bgcolor="#ffffec"><td><a href="">Pin du Japon</a></td><td><i>Pinus parviflora</i></td><td>Japanese Pine</td></tr>
+<tr bgcolor="#ffffcc"><td><a href="pinauteur.html">Pin de Macédoine</a></td><td><i>Pinus peuce</i></td><td>Macedonian Pine</td></tr>
+<tr bgcolor="#ffffec"><td><a href="pin.html">Pin maritime</a></td><td><i>Pinus pinaster</i></td><td>Maritime pine</td></tr>
+<tr bgcolor="#ffffcc"><td><a href="pin.html">Pin parasol, Pin pignon</a></td><td><i>Pinus pinea</i></td><td>European Stone Pine, Umbrella Pine</td></tr>
+<tr bgcolor="#ffffec"><td><a href="pin.html">Pin jaune</a></td><td><i>Pinus ponderosa</i></td><td>Ponderosa Pine</td></tr>
+<tr bgcolor="#ffffcc"><td><a href="">Pin nain de Sibérie</a></td><td><i>Pinus pumila</i></td><td>Siberian Dwarf Pine</td></tr>
+<tr bgcolor="#ffffec"><td><a href="">Pin nain de Sibérie</a></td><td><i>Pinus pumila</i></td><td>Siberian Dwarf Pine</td></tr>
+<tr bgcolor="#ffffcc"><td><a href="pinaut.html">Pin de Monterey</a></td><td><i>Pinus radiata</i></td><td>Monterey pine</td></tr>
+<tr bgcolor="#ffffec"><td><a href="pinaut.html">Pin Weymouth</a></td><td><i>Pinus strobus</i></td><td>Eastern White Pine</td></tr>
+<tr bgcolor="#ffffcc"><td><a href="pin.html">Pin sylvestre</a></td><td><i>Pinus sylvestris</i></td><td>Scotch Pine, Scots Pine</td></tr>
+<tr bgcolor="#ffffec"><td><a href="pinauteur.html">Pin à crochets</a></td><td><i>Pinus uncinata</i></td><td>Mountain Pine</td></tr>
+<tr bgcolor="#ffffcc"><td><a href="pinaut.html">Pin pleureur de l'Himalaya</a></td><td><i>Pinus wallichiana</i></td><td>Blue Pine</td></tr>
+<tr bgcolor="#ffffec"><td><a href="pistachier.html">Pistachier de Chine</a></td><td><i>Pistachia chinensis</i></td><td>Chinese Pistachio</td></tr>
+<tr bgcolor="#ffffcc"><td><a href="pistachier.html">Pistachier</a></td><td><i>Pistachia vera</i></td><td>Pistachio</td></tr>
+<tr bgcolor="#ffffec"><td><a href="pittosporum.html">Pittospore</a></td><td><i>Pittosporum tobira</i></td><td>Pittosporum</td></tr>
+<tr bgcolor="#ffffcc"><td><a href="platane.html">Platane</a></td><td><i>Platanus acerifolia</i></td><td>London Plane, Hybrid Plane</td></tr>
+<tr bgcolor="#ffffec"><td><a href="platane.html">Platane d'Occident</a></td><td><i>Platanus occidentalis</i></td><td>American Plane Tree, Sycamore, Buttonwood, Buttonb</td></tr>
+<tr bgcolor="#ffffcc"><td><a href="platane.html">Platane d'Orient</a></td><td><i>Platanus orientalis</i></td><td>Oriental Plane</td></tr>
+<tr bgcolor="#ffffec"><td><a href="frangipanier.html">Frangipanier</a></td><td><i>Plumeria Rubra</i></td><td>Red Frangipani</td></tr>
+<tr bgcolor="#ffffcc"><td><a href="poncirus.html">Citron du Nord</a></td><td><i>Poncirus trifoliata</i></td><td>Trifoliate Orange</td></tr>
+<tr bgcolor="#ffffec"><td><a href="peuplier.html">Peuplier blanc pyramidal</a></td><td><i>Populus 'pyramidalis'</i></td><td>White Poplar pyramidal</td></tr>
+<tr bgcolor="#ffffcc"><td><a href="peuplier.html">Peuplier blanc</a></td><td><i>Populus alba</i></td><td>White Poplar, Silver-leaved Poplar</td></tr>
+<tr bgcolor="#ffffec"><td><a href="peuplierbaumier.html">Peuplier baumier</a></td><td><i>Populus balsamifera</i></td><td>Balsam Poplar</td></tr>
+<tr bgcolor="#ffffcc"><td><a href="peuplierasie.html">Peuplier lasiocarpa</a></td><td><i>Populus lasiocarpa</i></td><td>Lasiocarpa Poplar</td></tr>
+<tr bgcolor="#ffffec"><td><a href="peuplier.html">Peuplier noir</a></td><td><i>Populus nigra</i></td><td>Black poplar</td></tr>
+<tr bgcolor="#ffffcc"><td><a href="peuplier.html">Peuplier d'Italie</a></td><td><i>Populus nigra “italica”</i></td><td>Lombardy Black Poplar, Italian Poplar</td></tr>
+<tr bgcolor="#ffffec"><td><a href="peuplierasie.html">Peuplier de Szechuan</a></td><td><i>Populus szechuanica</i></td><td>Poplar of Szechuan</td></tr>
+<tr bgcolor="#ffffcc"><td><a href="peuplier.html">Peuplier tremble</a></td><td><i>Populus tremula</i></td><td>Trembling Aspen</td></tr>
+<tr bgcolor="#ffffec"><td><a href="peuplier.html">Peuplier grisard</a></td><td><i>Populus x canescens</i></td><td>Poplar grisard</td></tr>
+<tr bgcolor="#ffffcc"><td><a href="amandier.html">Amandier</a></td><td><i>Prunus amygdalus</i></td><td>Almond</td></tr>
+<tr bgcolor="#ffffec"><td><a href="abricotier.html">Abricotier</a></td><td><i>Prunus armeniaca</i></td><td>Apricot tree</td></tr>
+<tr bgcolor="#ffffcc"><td><a href="merisier.html">Merisier des bois</a></td><td><i>Prunus avium</i></td><td>Gean, Wild cherry, Sweet cherry</td></tr>
+<tr bgcolor="#ffffec"><td><a href="prunier.html">Prunier</a></td><td><i>Prunus cerasifera</i></td><td>Cherry Plum, Myrobalan Plum</td></tr>
+<tr bgcolor="#ffffcc"><td><a href="prunier.html">Prunier de Pissard</a></td><td><i>Prunus cerasifera 'atropurpurea'</i></td><td>Pissard Cherry Plum</td></tr>
+<tr bgcolor="#ffffec"><td><a href="cerisier.html">Cerisier</a></td><td><i>Prunus cerasus</i></td><td>Cherry</td></tr>
+<tr bgcolor="#ffffcc"><td><a href="laurier.html">Laurier-cerise</a></td><td><i>Prunus laurocerasus</i></td><td>Common Cherry Laurel, English Laurel</td></tr>
+<tr bgcolor="#ffffec"><td><a href="laurier.html">Laurier du Portugal</a></td><td><i>Prunus lusitanica</i></td><td>Portuguese Cherry Laurel</td></tr>
+<tr bgcolor="#ffffcc"><td><a href="mahaleb.html">Bois de Sainte-Lucie</a></td><td><i>Prunus mahaleb</i></td><td>Mahaleb</td></tr>
+<tr bgcolor="#ffffec"><td><a href="cerisier.html">Cerisier à grappes</a></td><td><i>Prunus padus</i></td><td>Bird Cherry</td></tr>
+<tr bgcolor="#ffffcc"><td><a href="pecher.html">Pêcher</a></td><td><i>Prunus persica</i></td><td>Peach</td></tr>
+<tr bgcolor="#ffffec"><td><a href="cerisier.html">Cerisier noir</a></td><td><i>Prunus serotina</i></td><td>Black Cherry</td></tr>
+<tr bgcolor="#ffffcc"><td><a href="cerisier.html">Cerisier du Tibet</a></td><td><i>Prunus serrula</i></td><td>Tibetan Cherry</td></tr>
+<tr bgcolor="#ffffec"><td><a href="cerisier.html">Cerisier du Japon</a></td><td><i>Prunus serrulata</i></td><td>Oriental Cherry</td></tr>
+<tr bgcolor="#ffffcc"><td><a href="">Amandier de Chine</a></td><td><i>Prunus triloba</i></td><td>Flowering Almond</td></tr>
+<tr bgcolor="#ffffec"><td><a href="meleze.html">Faux Mélèze de Chine, Mélèze doré</a></td><td><i>Pseudolarix amabilis</i></td><td>Golden Larch</td></tr>
+<tr bgcolor="#ffffcc"><td><a href="douglas.html">Sapin de Douglas</a></td><td><i>Pseudotsuga douglasii</i></td><td>Douglas Fir</td></tr>
+<tr bgcolor="#ffffec"><td><a href="ptelea.html">Orme de Samarie</a></td><td><i>Ptelea trifoliata</i></td><td>Hop Tree, Wafer-ash, Stinking-ash, Water-ash</td></tr>
+<tr bgcolor="#ffffcc"><td><a href="pterocarier.html">Ptérocarier à feuilles de Frêne, Noyer du Caucase</a></td><td><i>Pterocarya fraxinifolia</i></td><td>Caucasian Wingnut</td></tr>
+<tr bgcolor="#ffffec"><td><a href="pterocarier.html">Ptérocarier du Japon</a></td><td><i>Pterocarya rhoifolia</i></td><td>Japanese Wingnut</td></tr>
+<tr bgcolor="#ffffcc"><td><a href="pterocarier.html">Ptérocarier de Chine</a></td><td><i>Pterocarya stenopera</i></td><td>Chinese Wingnut</td></tr>
+<tr bgcolor="#ffffec"><td><a href="grenadier.html">Grenadier</a></td><td><i>Punica granatum</i></td><td>Pomegranate</td></tr>
+<tr bgcolor="#ffffcc"><td><a href="grenadier.html">Grenadier à fleurs doubles</a></td><td><i>Punica granatum 'Flore Pleno'</i></td><td>Double-flowered Pomegranate</td></tr>
+<tr bgcolor="#ffffec"><td><a href="pyracantha.html">Buisson ardent</a></td><td><i>Pyracantha coccinea</i></td><td>Scarlet Firethorn</td></tr>
+<tr bgcolor="#ffffcc"><td><a href="poirier.html">Poirier</a></td><td><i>Pyrus communis</i></td><td>Common Pear</td></tr>
+<tr bgcolor="#ffffec"><td><a href="poirier.html">Poirier à feuilles de saule</a></td><td><i>Pyrus salicifolia</i></td><td>Willow-leaf Pear</td></tr>
+<tr bgcolor="#ffffcc"><td><a href="">Chêne du Japon à feuilles de châtaignier</a></td><td><i>Quercus acutissima</i></td><td>Sawtooth Oak</td></tr>
+<tr bgcolor="#ffffec"><td><a href="cheneame.html">Chêne américain</a></td><td><i>Quercus americana</i></td><td>American Oak</td></tr>
+<tr bgcolor="#ffffcc"><td><a href="cheneame.html">Chêne rouge</a></td><td><i>Quercus borealis</i></td><td>Red Oak</td></tr>
+<tr bgcolor="#ffffec"><td><a href="chene.html">Chêne à feuilles de châtaignier</a></td><td><i>Quercus castaneafolia</i></td><td>Chestnut-leaved Oak</td></tr>
+<tr bgcolor="#ffffcc"><td><a href="chene.html">Chêne chevelu</a></td><td><i>Quercus cerris</i></td><td>Turkey Oak</td></tr>
+<tr bgcolor="#ffffec"><td><a href="chene3.html">Chêne kermès</a></td><td><i>Quercus coccifera</i></td><td>Kermes Oak</td></tr>
+<tr bgcolor="#ffffcc"><td><a href="cheneame.html">Chêne écarlate</a></td><td><i>Quercus coccinea</i></td><td>Scarlet Oak</td></tr>
+<tr bgcolor="#ffffec"><td><a href="chenehongrie.html">Chêne daimyo</a></td><td><i>Quercus dentata</i></td><td>Daimyo Oak</td></tr>
+<tr bgcolor="#ffffcc"><td><a href="">Chêne faginé</a></td><td><i>Quercus faginea</i></td><td>Quercus faginea</td></tr>
+<tr bgcolor="#ffffec"><td><a href="">Chêne à feuilles falciformes</a></td><td><i>Quercus falcata</i></td><td>Southern red Oak</td></tr>
+<tr bgcolor="#ffffcc"><td><a href="chenehongrie.html">Chêne de Hongrie</a></td><td><i>Quercus frainetto</i></td><td>Hungarian Oak</td></tr>
+<tr bgcolor="#ffffec"><td><a href="chene.html">Chêne glauque</a></td><td><i>Quercus glauca</i></td><td>Oak goosefoot</td></tr>
+<tr bgcolor="#ffffcc"><td><a href="chene3.html">Chêne vert</a></td><td><i>Quercus ilex</i></td><td>Evergreen oak</td></tr>
+<tr bgcolor="#ffffec"><td><a href="">Chêne imbriqué</a></td><td><i>Quercus imbricaria</i></td><td>Shingle Oak, Laurel Oak</td></tr>
+<tr bgcolor="#ffffcc"><td><a href="cheneame.html">Chêne à feuilles de laurier</a></td><td><i>Quercus laurifolia</i></td><td>Swamp Laurel Oak</td></tr>
+<tr bgcolor="#ffffec"><td><a href="">Chêne du Liban</a></td><td><i>Quercus libani</i></td><td>Lebanon Oak</td></tr>
+<tr bgcolor="#ffffcc"><td><a href="">Chêne à gros glands</a></td><td><i>Quercus macrocarpa</i></td><td>Bur Oak</td></tr>
+<tr bgcolor="#ffffec"><td><a href="">Chêne de Mongolie</a></td><td><i>Quercus mongolica</i></td><td>Mongolian oak</td></tr>
+<tr bgcolor="#ffffcc"><td><a href="cheneasie.html">Chêne à feuilles de myrsine</a></td><td><i>Quercus myrsinifolia</i></td><td>Myrsine-leaved Oak</td></tr>
+<tr bgcolor="#ffffec"><td><a href="cheneame.html">Chêne des marais</a></td><td><i>Quercus palustris</i></td><td>Pin Oak, Swamp Oak</td></tr>
+<tr bgcolor="#ffffcc"><td><a href="chene.html">Chêne pédonculé</a></td><td><i>Quercus pedonculata, Q. robur</i></td><td>English Oak, Truffle Oak, Pedunculate Oak</td></tr>
+<tr bgcolor="#ffffec"><td><a href="chene.html">Chêne à feuilles de néflier</a></td><td><i>Quercus petraea mespilifolia</i></td><td>Oak Leaf Medlar</td></tr>
+<tr bgcolor="#ffffcc"><td><a href="chene.html">Chêne pubescent</a></td><td><i>Quercus pubescens</i></td><td>Pubescent oak</td></tr>
+<tr bgcolor="#ffffec"><td><a href="chene.html">Chêne tauzin</a></td><td><i>Quercus pyrenaica, Q. toza</i></td><td>Pyrenean oak</td></tr>
+<tr bgcolor="#ffffcc"><td><a href="cheneame.html">Chêne rouge</a></td><td><i>Quercus rubra</i></td><td>Northern Red Oak</td></tr>
+<tr bgcolor="#ffffec"><td><a href="chene.html">Chêne sessile</a></td><td><i>Quercus sessiliflora, Q. petraea</i></td><td>Sessile oak</td></tr>
+<tr bgcolor="#ffffcc"><td><a href="chene3.html">Chêne liège</a></td><td><i>Quercus suber</i></td><td>Cork Oak</td></tr>
+<tr bgcolor="#ffffec"><td><a href="chene.html">Chêne quercitron</a></td><td><i>Quercus velutina</i></td><td>Black Oak</td></tr>
+<tr bgcolor="#ffffcc"><td><a href="rhododendron.html">Rhododendron jaune</a></td><td><i>Rhododendron luteum</i></td><td>Yellow Rhododendron</td></tr>
+<tr bgcolor="#ffffec"><td><a href="sumac.html">Sumac ailé</a></td><td><i>Rhus copallina</i></td><td>Flameleaf Sumac, Winged Sumac</td></tr>
+<tr bgcolor="#ffffcc"><td><a href="sumac.html">Sumac des Voyageurs, Vinaigrier</a></td><td><i>Rhus coraria</i></td><td>Travelers sumac, Staghorn sumac</td></tr>
+<tr bgcolor="#ffffec"><td><a href="sumac.html">Sumac amarante</a></td><td><i>Rhus mollis</i></td><td>Sumac amaranth</td></tr>
+<tr bgcolor="#ffffcc"><td><a href="sumac.html">Sumac de Virginie</a></td><td><i>Rhus typhina</i></td><td>Staghorn Sumac</td></tr>
+<tr bgcolor="#ffffec"><td><a href="">Sumac lacinié</a></td><td><i>Rhus typhina dissecta</i></td><td>Laciniated Sumac</td></tr>
+<tr bgcolor="#ffffcc"><td><a href="sumac.html">Vernis du Japon, arbre à laque</a></td><td><i>Rhus verniciflua, Rhus vernicifera</i></td><td>Lacquer Tree</td></tr>
+<tr bgcolor="#ffffec"><td><a href="cassis.html">Cassissier</a></td><td><i>Ribes nigrum</i></td><td>Black Currant</td></tr>
+<tr bgcolor="#ffffcc"><td><a href="">Groseillier à grappes</a></td><td><i>Ribes rubrum</i></td><td>Red currant</td></tr>
+<tr bgcolor="#ffffec"><td><a href="robinier.html">Robinier faux acacia</a></td><td><i>Robinia pseudoacacia</i></td><td>Black Locust, Common Locust, Yellow, White Locust</td></tr>
+<tr bgcolor="#ffffcc"><td><a href="saule.html">Saule blanc</a></td><td><i>Salix alba</i></td><td>Wisconsin Weeping Willow</td></tr>
+<tr bgcolor="#ffffec"><td><a href="">Saule doré</a></td><td><i>Salix alba var. vitellina</i></td><td>Golden Willow</td></tr>
+<tr bgcolor="#ffffcc"><td><a href="saule.html">Saule pleureur</a></td><td><i>Salix babylonica</i></td><td>Weeping Willow</td></tr>
+<tr bgcolor="#ffffec"><td><a href="saule.html">Saule marsault</a></td><td><i>Salix caprea</i></td><td>Goat Willow</td></tr>
+<tr bgcolor="#ffffcc"><td><a href="saule.html">Saule cendré</a></td><td><i>Salix cinera</i></td><td>Salix cinerea</td></tr>
+<tr bgcolor="#ffffec"><td><a href="saule.html">Saule daphné</a></td><td><i>Salix daphnoides</i></td><td>Daphne Willow; Violet Willow</td></tr>
+<tr bgcolor="#ffffcc"><td><a href="saule.html">Saule cassant</a></td><td><i>Salix fragilis</i></td><td>Crack Willow</td></tr>
+<tr bgcolor="#ffffec"><td><a href="saule.html">Saule de Chine</a></td><td><i>Salix magnifica</i></td><td>China Willow</td></tr>
+<tr bgcolor="#ffffcc"><td><a href="saule.html">Saule tortueux</a></td><td><i>Salix Matsudana tortuosa</i></td><td>Curly willow</td></tr>
+<tr bgcolor="#ffffec"><td><a href="saule.html">Saule à f. de myrtille</a></td><td><i>Salix myrtilloides</i></td><td>Swamp Willow</td></tr>
+<tr bgcolor="#ffffcc"><td><a href="saule.html">Saule noir</a></td><td><i>Salix nigra</i></td><td>Black Willow</td></tr>
+<tr bgcolor="#ffffec"><td><a href="saule.html">Saule laurier</a></td><td><i>Salix pentandra</i></td><td>Laurel Willow</td></tr>
+<tr bgcolor="#ffffcc"><td><a href="">Saule pourpre</a></td><td><i>Salix purpurea</i></td><td>Purple Osier Willow</td></tr>
+<tr bgcolor="#ffffec"><td><a href="saule.html">Saule à feuilles de romarin</a></td><td><i>Salix rosmarinifolia</i></td><td>Rosemary-leaved Willow</td></tr>
+<tr bgcolor="#ffffcc"><td><a href="saule.html">Saule des vanniers</a></td><td><i>Salix viminalis</i></td><td>Osier</td></tr>
+<tr bgcolor="#ffffec"><td><a href="">Saule osier</a></td><td><i>Salix viticella</i></td><td>Saule osier</td></tr>
+<tr bgcolor="#ffffcc"><td><a href="sureau.html">Sureau du Canada</a></td><td><i>Sambucus canadensis</i></td><td>American Elder</td></tr>
+<tr bgcolor="#ffffec"><td><a href="sureau.html">Sureau</a></td><td><i>Sambucus nigra</i></td><td>Elder</td></tr>
+<tr bgcolor="#ffffcc"><td><a href="sassafras.html">Sassafras</a></td><td><i>Sassafras albidum</i></td><td>Sassafras</td></tr>
+<tr bgcolor="#ffffec"><td><a href="fpoivrier.html">Faux Poivrier</a></td><td><i>Schinus molle</i></td><td>Peruvian Pepper Tree</td></tr>
+<tr bgcolor="#ffffcc"><td><a href="sciadopitys.html">Pin à ombrelles, « Pin parasol » du Japon</a></td><td><i>Sciadopitys verticillata</i></td><td>Japanese Umbrella Pine</td></tr>
+<tr bgcolor="#ffffec"><td><a href="sequoia.html">Séquoia Redwood</a></td><td><i>Sequoia sempervirens</i></td><td>Redwood</td></tr>
+<tr bgcolor="#ffffcc"><td><a href="sequoia.html">Séquoia géant</a></td><td><i>Sequoiadendron giganteum</i></td><td>Giant Sequoia</td></tr>
+<tr bgcolor="#ffffec"><td><a href="sophora.html">Sophora du Japon, arbre de miel</a></td><td><i>Sophora japonica</i></td><td>Japanese Pagoda Tree, Scholar-tree</td></tr>
+<tr bgcolor="#ffffcc"><td><a href="sophora.html">Sophora à feuilles de vesce</a></td><td><i>Sophora viciifolia</i></td><td>Sophora davidii</td></tr>
+<tr bgcolor="#ffffec"><td><a href="alisier.html">Alisier blanc</a></td><td><i>Sorbus aria</i></td><td>Whitebeam</td></tr>
+<tr bgcolor="#ffffcc"><td><a href="sorbier.html">Sorbier des oiseleurs</a></td><td><i>Sorbus aucuparia</i></td><td>Mountain Ash, Rowan</td></tr>
+<tr bgcolor="#ffffec"><td><a href="sorbier.html">Cormier</a></td><td><i>Sorbus domestica</i></td><td>True Service tree</td></tr>
+<tr bgcolor="#ffffcc"><td><a href="alisier.html">Alisier du Nord</a></td><td><i>Sorbus intermedia</i></td><td>Swedish whitebeam</td></tr>
+<tr bgcolor="#ffffec"><td><a href="sorbier.html">Sorbier intermédiaire</a></td><td><i>Sorbus intermedia</i></td><td>Swedish Whitebeam</td></tr>
+<tr bgcolor="#ffffcc"><td><a href="alisier.html">Alisier de Fontainebleau</a></td><td><i>Sorbus latifolia</i></td><td>Fontainebleau Alister</td></tr>
+<tr bgcolor="#ffffec"><td><a href="alisier.html">Alisier de Mougeot</a></td><td><i>Sorbus mougeotii</i></td><td>Mougeot Alister</td></tr>
+<tr bgcolor="#ffffcc"><td><a href="alisier.html">Alisier torminal, Alisier des bois</a></td><td><i>Sorbus torminalis</i></td><td>Wild Service tree</td></tr>
+<tr bgcolor="#ffffec"><td><a href="genet.html">Genêt d'Espagne</a></td><td><i>Spartium junceum</i></td><td>Spanish Broom</td></tr>
+<tr bgcolor="#ffffcc"><td><a href="spiree.html">Spirée</a></td><td><i>Spiraea</i></td><td>Spirea</td></tr>
+<tr bgcolor="#ffffec"><td><a href="spiree.html">Spirée</a></td><td><i>Spiraea billardii</i></td><td>Spirea</td></tr>
+<tr bgcolor="#ffffcc"><td><a href="spiree.html">Spirée</a></td><td><i>Spiraea bumalda</i></td><td>Spirea</td></tr>
+<tr bgcolor="#ffffec"><td><a href="spiree.html">Spirée</a></td><td><i>Spiraea japonica</i></td><td>Spirea</td></tr>
+<tr bgcolor="#ffffcc"><td><a href="stachyurus.html">Stachyurus chinois</a></td><td><i>Stachyurus chinensis</i></td><td>Chinese Stachyurus</td></tr>
+<tr bgcolor="#ffffec"><td><a href="staphylea.html">Staphylea colchica</a></td><td><i>Staphylea colchica</i></td><td>Colchis Bladdernut</td></tr>
+<tr bgcolor="#ffffcc"><td><a href="staphylea.html">Staphylier de Chine</a></td><td><i>Staphylea holocarpa</i></td><td>Chinese Bladdernut</td></tr>
+<tr bgcolor="#ffffec"><td><a href="staphylea.html">Faux Pistachier</a></td><td><i>Staphylea pinnata</i></td><td>False Pistachio</td></tr>
+<tr bgcolor="#ffffcc"><td><a href="sterculia.html">Sterculia, arbre parasol</a></td><td><i>Sterculia</i></td><td>Sterculia</td></tr>
+<tr bgcolor="#ffffec"><td><a href="aliboufier.html">Aliboufier</a></td><td><i>Styrax officinale</i></td><td>Storax</td></tr>
+<tr bgcolor="#ffffcc"><td><a href="acajou.html">Acajou américain</a></td><td><i>Swietenia</i></td><td>Baywoods</td></tr>
+<tr bgcolor="#ffffec"><td><a href="">Lilas de l'Himalaya</a></td><td><i>Syringa emodi</i></td><td>Himalayan Lilac</td></tr>
+<tr bgcolor="#ffffcc"><td><a href="lilas.html">Lilas</a></td><td><i>Syringa vulgaris</i></td><td>Common Lilac</td></tr>
+<tr bgcolor="#ffffec"><td><a href="tamarinier.html">Tamarinier</a></td><td><i>Tamarindus indica</i></td><td>Tamarind</td></tr>
+<tr bgcolor="#ffffcc"><td><a href="tamaris.html">Tamaris</a></td><td><i>Tamaris gallica</i></td><td>Tamarisk</td></tr>
+<tr bgcolor="#ffffec"><td><a href="tamaris.html">Tamaris</a></td><td><i>Tamarix parviflora</i></td><td>American Tamarisk</td></tr>
+<tr bgcolor="#ffffcc"><td><a href="taxodium.html">Cyprès des étangs</a></td><td><i>Taxodium ascendens</i></td><td>Pond Cypress</td></tr>
+<tr bgcolor="#ffffec"><td><a href="taxodium.html">Cyprès chauve</a></td><td><i>Taxodium distichum</i></td><td>Bald Cypress</td></tr>
+<tr bgcolor="#ffffcc"><td><a href="if.html">If</a></td><td><i>Taxus baccata</i></td><td>English Yew, Common Yew</td></tr>
+<tr bgcolor="#ffffec"><td><a href="if.html">If d'Irlande</a></td><td><i>Taxus baccata fastigiata, taxus hibernica</i></td><td>Irish Yew</td></tr>
+<tr bgcolor="#ffffcc"><td><a href="cacaoyer.html">Cacaoyer</a></td><td><i>Theobroma cacao</i></td><td>Cacao</td></tr>
+<tr bgcolor="#ffffec"><td><a href="thuyopsis.html">Hiba, Thuyopsis</a></td><td><i>Thujopsis dolabrata</i></td><td>Hiba, Thuyopsis</td></tr>
+<tr bgcolor="#ffffcc"><td><a href="thuya.html">Thuya du Canada</a></td><td><i>Thuya occidentalis</i></td><td>Eastern Arborvitae, American Arborvitae, White Ced</td></tr>
+<tr bgcolor="#ffffec"><td><a href="thuya.html">Thuya d'Orient</a></td><td><i>Thuya orientalis</i></td><td>Oriental Cedar</td></tr>
+<tr bgcolor="#ffffcc"><td><a href="thuya.html">Thuya géant</a></td><td><i>Thuya plicata</i></td><td>Western red cedar</td></tr>
+<tr bgcolor="#ffffec"><td><a href="tilleul.html">Tilleul d'Amérique</a></td><td><i>Tilia americana</i></td><td>American Linden, Basswood</td></tr>
+<tr bgcolor="#ffffcc"><td><a href="tilleul.html">Tilleul à petites feuilles</a></td><td><i>Tilia cordata</i></td><td>Small-leaved Basswood</td></tr>
+<tr bgcolor="#ffffec"><td><a href="tilleul.html">Tilleul henrya</a></td><td><i>Tilia henryana</i></td><td>Henrya Basswood</td></tr>
+<tr bgcolor="#ffffcc"><td><a href="tilleul.html">Tilleul de Mongolie, Tilleul à feuilles de vigne</a></td><td><i>Tilia mongolica</i></td><td>Mongolian Lime</td></tr>
+<tr bgcolor="#ffffec"><td><a href="tilleul.html">Tilleul à grandes feuilles</a></td><td><i>Tilia platyphyllos</i></td><td>Arge-leaved Basswood, Bigleaf Linden</td></tr>
+<tr bgcolor="#ffffcc"><td><a href="tilleul.html">Tilleul argenté</a></td><td><i>Tilia tomentosa</i></td><td>Silver Linden</td></tr>
+<tr bgcolor="#ffffec"><td><a href="tilleul.html">Tilleul de Sibérie</a></td><td><i>Tilia x euchlora</i></td><td>Crimean Linden</td></tr>
+<tr bgcolor="#ffffcc"><td><a href="torreya.html">Torreya de Chine</a></td><td><i>Torreya grandis</i></td><td>Chinese Torreya</td></tr>
+<tr bgcolor="#ffffec"><td><a href="tsuga.html">Tsuga de l'Ouest</a></td><td><i>Tsuga heterophylla</i></td><td>Western hemlock</td></tr>
+<tr bgcolor="#ffffcc"><td><a href="orme.html">Orme champêtre</a></td><td><i>Ulmus carpinifolia</i></td><td>Smoothleaf Elm</td></tr>
+<tr bgcolor="#ffffec"><td><a href="">Orme blanc pleureur ou Orme à grandes feuilles</a></td><td><i>Ulmus glabra, Ulmus montana</i></td><td>Wych Elm, Scots Elm</td></tr>
+<tr bgcolor="#ffffcc"><td><a href="orme.html">Orme de Hollande</a></td><td><i>Ulmus hollandica</i></td><td>Holland Elm</td></tr>
+<tr bgcolor="#ffffec"><td><a href="orme.html">Orme pédonculé</a></td><td><i>Ulmus laevis</i></td><td>White Elm</td></tr>
+<tr bgcolor="#ffffcc"><td><a href="orme.html">Orme de montagne</a></td><td><i>Ulmus scabra</i></td><td>Mountain Elm</td></tr>
+<tr bgcolor="#ffffec"><td><a href="viorne.html">Viorne de Carles</a></td><td><i>Viburnum carlesii</i></td><td>Korean Fragrant Viburnum</td></tr>
+<tr bgcolor="#ffffcc"><td><a href="">Viorne du Père David</a></td><td><i>Viburnum davidii</i></td><td>Viburnum davidii</td></tr>
+<tr bgcolor="#ffffec"><td><a href="viorne.html">Viorne dentée</a></td><td><i>Viburnum dentatum</i></td><td>Arrowwood Viburnum</td></tr>
+<tr bgcolor="#ffffcc"><td><a href="viorne.html">Viorne odorante</a></td><td><i>Viburnum fragrans</i></td><td>Viorne odorante</td></tr>
+<tr bgcolor="#ffffec"><td><a href="viorne.html">Viorne lantane</a></td><td><i>Viburnum lantana</i></td><td>Wayfaring Viburnum</td></tr>
+<tr bgcolor="#ffffcc"><td><a href="viorne.html">Viorne odorante</a></td><td><i>Viburnum odoratissimum</i></td><td>Sweet Viburnum</td></tr>
+<tr bgcolor="#ffffec"><td><a href="viorne.html">Viorne obier, boule de neige</a></td><td><i>Viburnum opulus</i></td><td>Cranberrybush Viburnum</td></tr>
+<tr bgcolor="#ffffcc"><td><a href="viorne.html">Viorne à feuilles plissées</a></td><td><i>Viburnum plicatum</i></td><td>Viburnum leaf folded</td></tr>
+<tr bgcolor="#ffffec"><td><a href="viorne.html">Viorne de Prague</a></td><td><i>Viburnum pragense</i></td><td>Viburnum pragense</td></tr>
+<tr bgcolor="#ffffcc"><td><a href="viorne.html">Viorne ridée</a></td><td><i>Viburnum rhytidophyllum</i></td><td>Leatherleaf Viburnum</td></tr>
+<tr bgcolor="#ffffec"><td><a href="viorne.html">Laurier-tin</a></td><td><i>Viburnum tinus</i></td><td>Laurestine</td></tr>
+<tr bgcolor="#ffffcc"><td><a href="weigela.html">Weigelie</a></td><td><i>Weigela florida</i></td><td>Weigel</td></tr>
+<tr bgcolor="#ffffec"><td><a href="">Glycine de Chine</a></td><td><i>Wisteria sinensis</i></td><td>Chinese Wisteria</td></tr>
+<tr bgcolor="#ffffcc"><td><a href="zanthoxylum.html">Zanthoxylum</a></td><td><i>Zanthoxylum piperitum</i></td><td>Zanthoxylum</td></tr>
+<tr bgcolor="#ffffec"><td><a href="zanthoxylum.html">Zanthoxylum planispinum</a></td><td><i>Zanthoxylum planispinum</i></td><td>Zanthoxylum planispinum</td></tr>
+<tr bgcolor="#ffffcc"><td><a href="zelkova.html">Orme du Caucase</a></td><td><i>Zelkova carpinifolia</i></td><td>Zelkova</td></tr>
+<tr bgcolor="#ffffec"><td><a href="zelkova.html">Zelkova du Japon</a></td><td><i>Zelkova serrata</i></td><td>Japanese Zelkova</td></tr>
+<tr bgcolor="#ffffcc"><td><a href="zelkova.html">Zelkova de Chine</a></td><td><i>Zelkova sinensis</i></td><td>Chinese Zelkova</td></tr>
+<tr bgcolor="#ffffec"><td><a href="">Jujubier</a></td><td><i>Zigyphus Vulgaris</i></td><td>Jujube tree</td></tr>
