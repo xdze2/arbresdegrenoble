@@ -7,13 +7,24 @@ Les données des arbres de la ville sont en accès libre sur le site [Opendata d
 
 # Road map
 
-1. une jolie carte avec les arbres marqués
+1. Une jolie carte avec les arbres marqués
 2. puis une pop-up avec les infos sur l'arbre (nom commun, date de plantation... etc)
 
 3. puis la localisation GPS pour trouver l'arbre le plus proche
-4. ... etc
+4. etc
 
-# Questions
+# Data flow
+
+* Exploration des données (notebook) : élimination manuelle des champs non utiles
+* Création d'une base de données sqlite3
+*  ...
+* Création d'un nouveau GeoJson à partir de la DB
+* Export vers Mapbox Studio ? ou vers le script js...
+
+
+# Problématiques
+
+## Carto et visualisation
 
 * Trop de points pour les petits zoom (<15), c'est frustrant...
     - Heat map, point clustering... :/
@@ -23,13 +34,20 @@ Les données des arbres de la ville sont en accès libre sur le site [Opendata d
         - [Sur la création des enveloppes concaves et les divers moyens d'y parvenir](http://www.portailsig.org/content/sur-la-creation-des-enveloppes-concaves-concave-hull-et-les-divers-moyens-d-y-parvenir-forme)
         - https://scicomp.stackexchange.com/a/3303/15117
 
-# Data flow
 
-* Exploration des données (notebook) : élimination manuelle des champs non utiles
-* Création d'une base de données sqlite3
-*  ...
-* Création d'un nouveau GeoJson à partir de la DB
-* Export vers Mapbox Studio ? ou vers le script js... 
+## Information Botanique
+
+* Correspondance (Genre, espèce, variété) vers le nom vernaculaire
+    - [**Tela Botanica**](http://www.tela-botanica.org/page:accueil_botanique)
+        - en particuler la [Base de Données des Trachéophytes de métropole et contrées limitrophes (BDTFX)](http://www.tela-botanica.org/bdtfx)
+        mais il n'y a pas les noms communs (voir le projet [Les noms vernaculaires des plantes](http://www.tela-botanica.org/page:liste_projets?id_projet=2&act=resume))
+    - [**lesarbres.fr - Noms latin**](http://www.lesarbres.fr/noms-des-arbres-latin-.html)
+        Liste de 534 Arbres
+        Comment faire la correspondance proprement ?
+
+    - [Notions de nomenclatures](http://hortidact.eklablog.com/le-vegetal-notions-de-nomenclature-a57617765)
+        Explications de la nomenclature binomiale ou trinomiale : Genre, espèce, (variété).
+
 
 # Liens utiles
 
@@ -44,9 +62,10 @@ Les données des arbres de la ville sont en accès libre sur le site [Opendata d
 ### Botanique
 
 - [**Tela Botanica**](http://www.tela-botanica.org/page:accueil_botanique)
-
+    - en particuler la [Base de Données des Trachéophytes de métropole et contrées limitrophes (BDTFX)](http://www.tela-botanica.org/bdtfx)
 - [**lesarbres.fr - Noms latin**](http://www.lesarbres.fr/noms-des-arbres-latin-.html)
+- [notions de nomenclatures](http://hortidact.eklablog.com/le-vegetal-notions-de-nomenclature-a57617765)
 
 ### Données
 
-- [**Arbre d'alignement (Lyon ?)**](https://www.data.gouv.fr/fr/datasets/arbre-dalignement/) 
+- [**Arbre d'alignement (Lyon ?)**](https://www.data.gouv.fr/fr/datasets/arbre-dalignement/)
