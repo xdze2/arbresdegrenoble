@@ -38,7 +38,15 @@ Les données des arbres de la ville sont en accès libre sur le site [Opendata d
 - [**Jolies cartes - Stamen Design**](http://maps.stamen.com/#toner/16/45.1868/5.7261)
 - [**[github] stamen/toner-carto**](https://github.com/stamen/toner-carto)
 - [**Mapbox**](https://www.mapbox.com)
+- [**umap**](https://umap.openstreetmap.fr/en/)
+
 
 ### Botanique
 
 - [**Tela Botanica**](http://www.tela-botanica.org/page:accueil_botanique)
+
+- [**lesarbres.fr - Noms latin**](http://www.lesarbres.fr/noms-des-arbres-latin-.html)
+
+### Données
+
+- [**Arbre d'alignement (Lyon ?)**](https://www.data.gouv.fr/fr/datasets/arbre-dalignement/) 
