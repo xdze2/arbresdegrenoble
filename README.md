@@ -8,7 +8,7 @@ Les données des arbres de la ville sont en accès libre sur le site [Opendata d
 # Road map
 
 1. Une jolie carte avec les arbres marqués
-2. puis une pop-up avec les infos sur l'arbre (nom commun, date de plantation... etc)
+2. puis une pop-up avec les infos sur l'arbre (nom commun, date de plantation, etc)
 
 3. puis la localisation GPS pour trouver l'arbre le plus proche
 4. etc
@@ -19,34 +19,38 @@ Les données des arbres de la ville sont en accès libre sur le site [Opendata d
 * Création d'une base de données sqlite3
 *  ...
 * Création d'un nouveau GeoJson à partir de la DB
-* Export vers Mapbox Studio ? ou vers le script js...
+* Export vers Mapbox Studio ? (ou vers le script js)
 
 
 # Problématiques
 
 ## Carto et visualisation
 
-* Trop de points pour les petits zoom (<15), c'est frustrant...
-    - Heat map, point clustering... :/
-    - Regroupement des arbres par zone parente (code_parent)
-    - Comment dessiner ces zones ?  convex hull :/ (sur une allée en arc)
-    - alpha-hull/concave hull :
-        - [Sur la création des enveloppes concaves et les divers moyens d'y parvenir](http://www.portailsig.org/content/sur-la-creation-des-enveloppes-concaves-concave-hull-et-les-divers-moyens-d-y-parvenir-forme)
-        - https://scicomp.stackexchange.com/a/3303/15117
+### Trop de points pour les petits zoom (<15)
+- Heat map, point clustering : le positionnement est alors perdu
+- Regroupement des arbres par zone parente (code_parent)
+- Comment dessiner ces zones ?  convex hull :/ (sur une allée en arc)
+- alpha-hull/concave hull :
+    - [Sur la création des enveloppes concaves et les divers moyens d'y parvenir](http://www.portailsig.org/content/sur-la-creation-des-enveloppes-concaves-concave-hull-et-les-divers-moyens-d-y-parvenir-forme)
+    - https://scicomp.stackexchange.com/a/3303/15117
 
 
-## Information Botanique
+## Botanique
 
-* Correspondance (Genre, espèce, variété) vers le nom vernaculaire
-    - [**Tela Botanica**](http://www.tela-botanica.org/page:accueil_botanique)
-        - en particuler la [Base de Données des Trachéophytes de métropole et contrées limitrophes (BDTFX)](http://www.tela-botanica.org/bdtfx)
-        mais il n'y a pas les noms communs (voir le projet [Les noms vernaculaires des plantes](http://www.tela-botanica.org/page:liste_projets?id_projet=2&act=resume))
-    - [**lesarbres.fr - Noms latin**](http://www.lesarbres.fr/noms-des-arbres-latin-.html)
-        Liste de 534 Arbres
-        Comment faire la correspondance proprement ?
+### Correspondance (Genre, espèce, variété) vers le nom vernaculaire
+- [**lesarbres.fr - Noms latin**](http://www.lesarbres.fr/noms-des-arbres-latin-.html)
+    Liste de 534 Arbres avec le nom latin, "français" et anglais
+    [ok] voir [ 	correspondance_noms.ipynb](https://github.com/xdze2/arbresdegrenoble/blob/master/correspondance_noms.ipynb)
 
-    - [Notions de nomenclatures](http://hortidact.eklablog.com/le-vegetal-notions-de-nomenclature-a57617765)
-        Explications de la nomenclature binomiale ou trinomiale : Genre, espèce, (variété).
+- [**Tela Botanica**](http://www.tela-botanica.org/page:accueil_botanique)
+    - en particuler la [Base de Données des Trachéophytes de métropole et contrées limitrophes (BDTFX)](http://www.tela-botanica.org/bdtfx)
+    mais il n'y a pas les noms communs. Eventuellement avec le projet [Les noms vernaculaires des plantes](http://www.tela-botanica.org/page:liste_projets?id_projet=2&act=resume))...
+
+Voir [Notions de nomenclatures](http://hortidact.eklablog.com/le-vegetal-notions-de-nomenclature-a57617765) pour une explications de la nomenclature binomiale ou trinomiale : Genre espèce [variété].
+
+### Plus d'information ?
+    photo, période de floraisons, taille, histoire
+
 
 
 # Liens utiles
@@ -59,12 +63,6 @@ Les données des arbres de la ville sont en accès libre sur le site [Opendata d
 - [**umap**](https://umap.openstreetmap.fr/en/)
 
 
-### Botanique
-
-- [**Tela Botanica**](http://www.tela-botanica.org/page:accueil_botanique)
-    - en particuler la [Base de Données des Trachéophytes de métropole et contrées limitrophes (BDTFX)](http://www.tela-botanica.org/bdtfx)
-- [**lesarbres.fr - Noms latin**](http://www.lesarbres.fr/noms-des-arbres-latin-.html)
-- [notions de nomenclatures](http://hortidact.eklablog.com/le-vegetal-notions-de-nomenclature-a57617765)
 
 ### Données
 
