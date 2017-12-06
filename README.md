@@ -38,18 +38,17 @@ Les données des arbres de la ville sont en accès libre sur le site [Opendata d
 ## Botanique
 
 ### Correspondance (Genre, espèce, variété) vers le nom vernaculaire
-- [**lesarbres.fr - Noms latin**](http://www.lesarbres.fr/noms-des-arbres-latin-.html)
-    Liste de 534 Arbres avec le nom latin, "français" et anglais
+- [**lesarbres.fr - Noms latin**](http://www.lesarbres.fr/noms-des-arbres-latin-.html) :
+    Liste de 534 Arbres avec le nom latin, "français" et anglais.  
     [ok] voir [ 	correspondance_noms.ipynb](https://github.com/xdze2/arbresdegrenoble/blob/master/correspondance_noms.ipynb)
 
-- [**Tela Botanica**](http://www.tela-botanica.org/page:accueil_botanique)
-    - en particuler la [Base de Données des Trachéophytes de métropole et contrées limitrophes (BDTFX)](http://www.tela-botanica.org/bdtfx)
-    mais il n'y a pas les noms communs. Eventuellement avec le projet [Les noms vernaculaires des plantes](http://www.tela-botanica.org/page:liste_projets?id_projet=2&act=resume))...
+- [**Tela Botanica**](http://www.tela-botanica.org/page:accueil_botanique) en particuler la [Base de Données des Trachéophytes de métropole et contrées limitrophes (BDTFX)](http://www.tela-botanica.org/bdtfx)
+    mais il n'y a pas les noms communs. Eventuellement avec le projet [Les noms vernaculaires des plantes](http://www.tela-botanica.org/page:liste_projets?id_projet=2&act=resume)...
 
-Voir [Notions de nomenclatures](http://hortidact.eklablog.com/le-vegetal-notions-de-nomenclature-a57617765) pour une explications de la nomenclature binomiale ou trinomiale : Genre espèce [variété].
+Voir [Notions de nomenclatures](http://hortidact.eklablog.com/le-vegetal-notions-de-nomenclature-a57617765) pour une explications de la nomenclature binomiale ou trinomiale : Genre _espèce_ ['variété'].
 
 ### Plus d'information ?
-    photo, période de floraisons, taille, histoire
+photo, période de floraisons, taille, histoire
 
 
 
