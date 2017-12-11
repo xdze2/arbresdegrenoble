@@ -74,7 +74,7 @@ def get_polycoords( polygon, scale_back ):
 
     elif polygon.geom_type == 'Polygon':
         boundary_coords = polygon.boundary.coords
-        coordslist = scale_back( np.array(boundary_coords) ).tolist()
+        coordslist = (scale_back( np.array(boundary_coords) ).tolist(), ) # supplementary tuple ??
 
     return polygon.geom_type, coordslist
 
