@@ -9,9 +9,9 @@ Les données des arbres de la ville sont en accès libre sur le site [Opendata d
 
 1. Une jolie carte avec les arbres marqués
 2. puis une pop-up avec les infos sur l'arbre (nom commun, date de plantation, etc)
-
-3. puis la localisation GPS pour trouver l'arbre le plus proche
-4. etc
+3. plus de fonctionnalités dans l'interface web (filtre, wiki)
+4. puis la localisation GPS pour trouver l'arbre le plus proche
+5. application mobile
 
 # Data flow
 
@@ -19,7 +19,7 @@ Les données des arbres de la ville sont en accès libre sur le site [Opendata d
 * Création d'une base de données sqlite3
 *  ...
 * Création d'un nouveau GeoJson à partir de la DB
-* Export vers Mapbox Studio ? (ou vers le script js)
+* Export vers Mapbox Studio
 
 
 # Problématiques
